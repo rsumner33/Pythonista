@@ -209,11 +209,6 @@
 
 		03 - Docs.python.org/2/library/tkinter.html
 		
-		04 - Plone.org
-		
-		05 - Bottlepy.org
-		
-		06 - Quokkaproject.org
 	
 	### Web
 
@@ -224,6 +219,12 @@
 		02 - Flask.pocoo.org
 		
 		03 - Web2py.com
+		
+		04 - Plone.org
+		
+		05 - Bottlepy.org
+		
+		06 - Quokkaproject.org
 
 		// Wiki.python.org/moin/WebFrameworks
 
@@ -283,6 +284,8 @@
 	
 	17 - Youtube.com/playlist?list=PLcJTNR4FGIP9oIw0yaSlM-C_aO4PjhRGV ( Python & Hacking )
 	
+	18 - Youtube.com/playlist?list=PLTZIuMkWu9729XD1m65DQBjHqOHjeZEMa ( Python & Django )
+	
 	18 - Youtube.com/watch?v=siVUal-TeMc ( Python & Nltk )
 	
 	19 - Youtube.com/watch?v=IGko0Co97mM ( Pyton & Android )
@@ -336,6 +339,10 @@
 	07 - Você ainda não aprendeu Python - Rafael Henrique ( youtube.com/watch?v=YDgR5unzty8&t=1648s )
 
 	08 - POO com Python - Júlia Rizza ( youtube.com/watch?v=t-w1dEBc_o4 )
+	
+	09 - Python Aprenda na Prática ( youtube.com/watch?v=NFObSN67qM8 )
+	
+	10 - Bruno Rocha - Carreira de Programador e Mercado de Trabalho ( youtube.com/watch?v=Q8KyS8ikQMs )
 	
 	
 ## Blogs
