@@ -216,6 +216,8 @@
 		01 - Trypyramid.com
 
 		02 - Flask.pocoo.org
+		
+		03 - Web2py.com
 
 		// Wiki.python.org/moin/WebFrameworks
 
@@ -335,6 +337,23 @@
 	// Breve ...
 
 
+## Banco de dados
+
+	00 - Postgresql.org
+	
+	01 - Sqlite.org
+	
+	02 - Mongodb.com
+	
+	03 - Mysql.com
+	
+	04 - Oracle.com
+	
+	// Redis.io
+	
+	// Apache.org || Nginx.com
+	
+	
 ## Tools
 
 	00 - Virtualenv.pypa.io/en/stable
@@ -358,6 +377,15 @@
 	09 - Codeclimate.com || Codacy.com
 
 	10 - Pythontutor.com
+	
+	11 - Newrelic.com || Opbeat.com
+	
+	12 - Jenkins.io || Travis-ci.org ( Integração Continua )
+	
+	13 - Pt.wikipedia.org/wiki/Lista_de_distribuições_de_Linux
+	
+	14 - Analytics.google.com || Piwik.org
+
 
 ## Vertentes
 
