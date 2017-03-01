@@ -58,8 +58,24 @@
 	14 - Docs.python.org/3 ( En )
 
 	15 - Turing.com.br/pydoc/2.7/tutorial ( Br )
+	
+	16 - Lectures.quantecon.org/py/index.html ( En )
+	
+	17 - drive.google.com/file/d/0B_XYij1eGClZaUNCdE9TRGVpbGM/view ( Br )
 
 
+## Visão da linguagem
+
+	00 - Stackoverflow.com/research/developer-survey-2016
+	
+	
+## Libs
+
+	00 - Ericstk.files.wordpress.com/2014/09/pymap.png?w=756&h=756
+	
+	01 - Pypi.python.org/pypi
+	
+	
 ## Podcasts
 
 	00 - Devnaestrada.com.br/2016/06/03/data-science.html ( Br )
