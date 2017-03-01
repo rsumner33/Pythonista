@@ -299,3 +299,11 @@
 	09 - Codeclimate.com || Codacy.com
 
 	10 - Pythontutor.com
+
+## Vertentes
+
+	00 - Github.com/dloss/python-pentest-tools / Pentest
+	
+	01 - Github.com/AeroPython/awesome-scientific-computing / Science / Github.com/docmarionum1/python-data-science-primer
+	
+	
