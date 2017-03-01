@@ -30,7 +30,7 @@
 	08 - Englishexperts.com.br
 
 
-## " Livros " / Documentações
+## " Livros " / Documentações / Artigos
 
 	00 - Pt.wikibooks.org/wiki/Python  ( Br / En )
 
@@ -67,6 +67,8 @@
 	16 - Lectures.quantecon.org/py/index.html ( En )
 	
 	17 - Drive.google.com/file/d/0B_XYij1eGClZaUNCdE9TRGVpbGM/view ( Br )
+	
+	18 - Liveedu.tv/learn/python ( En )
 
 
 ## Visão da linguagem
@@ -237,6 +239,23 @@
 
 	11 - Youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW
 	
+	12 - Youtube.com/playlist?list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE ( Python & Tkinter )
+	
+	13 - Youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M ( Python & Sockets )
+	
+	14 - Youtube.com/playlist?list=PL62G310vn6nHZ1d9QjFNgsJ6r5ABySjj4 ( Python & Machine Learn )
+	
+	15 - Youtube.com/playlist?list=PLTsvygy5wcFjDKKN7Jip6hp3QXSM14B5l ( Python & Django 1.8 )
+	
+	16 - Youtube.com/playlist?list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd ( Python & Django )
+	
+	17 - Youtube.com/playlist?list=PLcJTNR4FGIP9oIw0yaSlM-C_aO4PjhRGV ( Python & Hacking )
+	
+	18 - Youtube.com/watch?v=siVUal-TeMc ( Python & Nltk )
+	
+	19 - Youtube.com/watch?v=IGko0Co97mM ( Pyton & Android )
+	
+	
 	### Outras Plataformas
 
 	// Codeschool.com/courses/try-python
@@ -268,9 +287,25 @@
 
 ## Apresentações
 
-	// Em Breve
+	00 - Guido Van Rossum - Python Language ( youtube.com/watch?v=YgtL4S7Hrwo )
+	
+	01 - Iteração em Python: do básico ao genial - Luciano Ramalho ( youtu.be/ULj7ejvuzI8 )
+	
+	02 - Básico de Django Rest Framework - Pk Pacheco ( youtube.com/watch?v=im3bMuhfUj8 )
+	
+	03 - 7 Masters Python | Desenvolvimento Web - Giovane Liberato ( youtube.com/watch?v=yqviCcurVdc )
+	
+	04 - Jake Vanderplas - Statistics for Hackers ( youtube.com/watch?v=Iq9DzN6mvYA )
+	
+	05 - 7 Masters Python | Flask - Bruno Rocha ( youtube.com/watch?v=pfCPxjDpGco )
+	
+	06 - Desenvolvimento Web com Python e Bottle - Marcos Castro ( youtube.com/watch?v=j5e85tsSfoc )
+	
+	07 - Você ainda não aprendeu Python - Rafael Henrique ( youtube.com/watch?v=YDgR5unzty8&t=1648s )
 
-
+	08 - POO com Python - Júlia Rizza ( youtube.com/watch?v=t-w1dEBc_o4 )
+	
+	
 ## Blogs
 
 	// Breve ...
