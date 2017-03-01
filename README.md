@@ -177,6 +177,8 @@
 		00 - Brasil.pyladies.com
 		
 		01 - Djangogirls.org
+		
+		// Mulheresnacomputacao.com
 
 
 ## Meetups
