@@ -1,10 +1,10 @@
 
 # Desenvolvedores Python
 
-# Github.com/python
+### Github.com/python
 
 
-## Suporte Com Inglês
+## Suporte ( Ao Inglês )	
 
 	00 - Pt.duolingo.com
 
@@ -25,8 +25,8 @@
 	08 - Englishexperts.com.br
 
 
-## " Livro " / Documentação
-	
+## " Livros " / Documentações
+
 	00 - Pt.wikibooks.org/wiki/Python  ( Br / En )
 
 	01 - Pt.wikipedia.org/wiki/Python ( Br / En )
@@ -60,7 +60,7 @@
 	15 - Turing.com.br/pydoc/2.7/tutorial ( Br )
 
 
-## Podcast
+## Podcasts
 
 	00 - Devnaestrada.com.br/2016/06/03/data-science.html ( Br )
 
@@ -73,8 +73,7 @@
 	04 - Python.madewithopinion.com ( En )
 
 
-
-## Comunidade
+## Comunidades
 
 	00 - Reddit.com/r/Python ( En )
 
@@ -97,7 +96,7 @@
 	09 - Facebook.com/groups/python.brasil ( Br )
 
 
-## Trabalho
+## Empregos
 
 	00 - Remoteok.io/remote-python-jobs ( En )
 	
@@ -133,7 +132,7 @@
 	01 - Pt.slideshare.net/search/slideshow?searchfrom=header&q=Python
 
 
-## Conferência
+## Conferências
 
 	00 - Pythonbrasil.org.br
 
@@ -145,7 +144,8 @@
 
 	04 - Pymunich.com
 
-## Framework
+
+## Frameworks
 	
 	### Gui
 
@@ -168,7 +168,7 @@
 		// Wiki.python.org/moin/WebFrameworks
 
 	
-## Ide
+## Ide's
 	
 	00 - Pydev.org
 	
@@ -185,7 +185,7 @@
 	06 - Damnwidget.github.io/anaconda
 
 
-## Curso Youtube
+## Cursos no Youtube
 	
 	00 - Youtube.com/playlist?list=PLc-O0bhHdRmgp-CxB_eMHHM9LjefTZBTB
 
@@ -214,9 +214,13 @@
 	### Outras Plataformas
 
 	// Codeschool.com/courses/try-python
+	
+	// Udemy.com/courses/search/?q=Python
+	
+	// Br.udacity.com/course/programming-foundations-with-python--ud036
 
 
-## Códigos Python
+## Exemplos de código
 	
 	Pymotw.com/3
 
@@ -228,14 +232,15 @@
 	
 	Programiz.com/python-programming/examples
 
-## Certificação
+
+## Certificações
 
 	00 - Certificacao.imasters.com.br ( Em Breve / Free )
 
 	// Wiki.python.org.br/DefesaPython && Groups.google.com/forum/#!topic/python-brasil/9JGLO3c6UkI
 
 
-## Apresentação
+## Apresentações
 
 	// Em Breve
 
