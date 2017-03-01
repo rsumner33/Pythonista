@@ -171,6 +171,25 @@
 	03 - Caipyra.python.org.br
 
 	04 - Pymunich.com
+	
+	## Eventos para inclusão de mulheres
+	
+		00 - Brasil.pyladies.com
+		
+		01 - Djangogirls.org
+
+
+## Meetups
+
+	00 - Meetup.com/pt-BR/topics/python
+	
+	01 - Meetup.com/pt-BR/Belo-Horizonte-Python-User-Group
+	
+	02 - Pythonrio.python.org.br
+	
+	03 - Meetup.com/pt-BR/Python-User-Group-Campinas
+
+	04 - Meetup.com/pt-BR/PyLadiesSP
 
 
 ## Frameworks
