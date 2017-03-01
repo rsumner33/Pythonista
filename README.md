@@ -159,6 +159,8 @@
 	00 - Speakerdeck.com/search?utf8=✓&q=Python
 
 	01 - Pt.slideshare.net/search/slideshow?searchfrom=header&q=Python
+	
+	02 - Slides.com/explore?search=Python
 
 
 ## Conferências
