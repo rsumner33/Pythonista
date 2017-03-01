@@ -208,6 +208,12 @@
 		02 - Wiki.qt.io/PySide
 
 		03 - Docs.python.org/2/library/tkinter.html
+		
+		04 - Plone.org
+		
+		05 - Bottlepy.org
+		
+		06 - Quokkaproject.org
 	
 	### Web
 
@@ -348,6 +354,10 @@
 	03 - Mysql.com
 	
 	04 - Oracle.com
+	
+	05 - Hadoop.apache.org
+	
+	06 - Scylladb.com
 	
 	// Redis.io
 	
