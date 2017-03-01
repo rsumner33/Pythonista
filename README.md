@@ -4,6 +4,11 @@
 ### Github.com/python
 
 
+## Motivo pra aprender python e não outras linguagens
+
+	Destroyallsoftware.com/talks/wat
+	
+	
 ## Suporte ( Ao Inglês )	
 
 	00 - Pt.duolingo.com
@@ -113,7 +118,12 @@
 
 
 ## Empregos
-
+	
+	// Programador Python fala sobre o mercado de trabalho :
+	
+	// Youtube.com/watch?v=jvYQXvMBx9k
+	
+	
 	00 - Remoteok.io/remote-python-jobs ( En )
 	
 	01 - Infojobs.com.br/empregos.aspx?Palabra=Python ( Br )
