@@ -61,7 +61,7 @@
 	
 	16 - Lectures.quantecon.org/py/index.html ( En )
 	
-	17 - drive.google.com/file/d/0B_XYij1eGClZaUNCdE9TRGVpbGM/view ( Br )
+	17 - Drive.google.com/file/d/0B_XYij1eGClZaUNCdE9TRGVpbGM/view ( Br )
 
 
 ## Visão da linguagem
