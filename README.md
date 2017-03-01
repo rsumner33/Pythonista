@@ -2,6 +2,7 @@
 # Desenvolvedores Python
 
 ### Github.com/python
+![alt text](https://www.codeschool.com/blog/2016/01/27/why-python/0127-blog-beginnersPython-v2.png "Code School - Why Python")
 
 
 ## Motivo pra aprender python e não outras linguagens
