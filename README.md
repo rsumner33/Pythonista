@@ -70,6 +70,8 @@
 	17 - Drive.google.com/file/d/0B_XYij1eGClZaUNCdE9TRGVpbGM/view ( Br )
 	
 	18 - Liveedu.tv/learn/python ( En )
+	
+	19 - Inventwithpython.com/ ( En )
 
 
 ## Visão da linguagem
@@ -347,7 +349,13 @@
 	
 ## Blogs
 
-	// Breve ...
+	00 - Pythontips.com
+	
+	01 - Aprenda-python.blogspot.com.br
+	
+	02 - Pythonclub.com.br
+	
+	03 - Pythonhelp.wordpress.com
 
 
 ## Banco de dados
