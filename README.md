@@ -302,6 +302,8 @@
 	// Udemy.com/courses/search/?q=Python
 	
 	// Br.udacity.com/course/programming-foundations-with-python--ud036
+	
+	// Edx.org/course?search_query=python
 
 
 ## Exemplos de código
