@@ -74,6 +74,8 @@
 	19 - Inventwithpython.com/ ( En )
 	
 	20 - Gist.github.com/blepfo/efe59d762d8fffb0bf15af9962b1ea4c ( Python Avançado - En )
+	
+	21 - Penseallen.github.io/PensePython2e ( Br )
 
 
 ## Visão da linguagem
