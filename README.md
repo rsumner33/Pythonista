@@ -124,6 +124,8 @@
 	08 - Sitepoint.com/community/c/python-perl-and-golang/python ( En )
 
 	09 - Facebook.com/groups/python.brasil ( Br )
+	
+	10 - Pythonbrasil.slack.com ( Br )
 
 
 ## Empregos
@@ -381,6 +383,8 @@
 	06 - Scylladb.com
 	
 	// Redis.io
+	
+	// Elastic.co
 	
 	// Apache.org || Nginx.com
 	
