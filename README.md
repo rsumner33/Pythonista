@@ -88,6 +88,8 @@
 	
 	03 - Pythonhelp.wordpress.com
 	
+	05 - Realpython.com/blog
+	
 
 #### Exemplos de código python
 	
@@ -102,9 +104,11 @@
 
 #### Libs
 
-	00 - Ericstk.files.wordpress.com/2014/09/pymap.png?w=756&h=756
+	00 - Ericstk.files.wordpress.com/2014/09/pymap.png
 	
 	01 - Pypi.python.org/pypi
+	
+	02 - Github.com/vinta/awesome-python
 	
 	
 #### Suporte ao inglês	
@@ -287,6 +291,8 @@
 	03 - Caipyra.python.org.br
 
 	04 - Pymunich.com
+	
+	05 - Thedevelopersconference.com.br
 	
 	## Eventos para inclusão de mulheres
 	
