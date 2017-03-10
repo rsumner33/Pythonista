@@ -1,16 +1,106 @@
 
 # Desenvolvedores Python
 
-### Github.com/python
+<h6>Github.com/python</h6>
+
 ![alt text](https://www.codeschool.com/blog/2016/01/27/why-python/0127-blog-beginnersPython-v2.png "Code School - Why Python")
 
 
-## Motivo pra aprender python e não outras linguagens
+#### Motivo para aprender python
 
-	Destroyallsoftware.com/talks/wat
+	00 - Destroyallsoftware.com/talks/wat	
 	
 	
-## Suporte ( Ao Inglês )	
+#### Visão geral da linguagem
+
+	00 - Stackoverflow.com/insights/survey/2016  ( Salário, área, comunidade ... )
+	
+	
+####  Certificação
+
+	00 - Certificacao.imasters.com.br ( Em Breve )
+
+	// Wiki.python.org.br/DefesaPython
+	
+	
+#### Vagas de empregos
+	
+	// Programador Python fala sobre o mercado de trabalho ( Youtube.com/watch?v=jvYQXvMBx9k )
+
+	00 - Remoteok.io ( En )
+	
+	01 - Infojobs.com.br ( Br )
+
+	02 - Workana.com ( Br )
+
+	03 - Landing.jobs ( En )
+
+	04 - Python.org/jobs ( En )
+
+	05 - Linkedin.com ( Br / En )
+	
+	06 - Jobs.github.com ( En )
+
+	07 - Pythonjobs.com ( En )
+
+	08 - Upwork.com ( En )
+
+	09 - Freelancer.com ( En / Br )
+
+	10 - Stackoverflow.com/jobs ( En )
+	
+	11 - Pythonjobs.github.io ( En )
+
+	12 - Trampos.co ( Br )
+
+
+#### Vertentes
+
+	00 - Github.com/dloss/python-pentest-tools ( Pentest )
+	
+	01 - Github.com/AeroPython/awesome-scientific-computing ( ' Scientic ' )
+	
+	
+#### Ide's
+	
+	00 - Pydev.org
+	
+	01 - Geany.org
+	
+	02 - Jetbrains.com/pycharm
+	
+	03 - Eclipse.org
+	
+	04 - Activestate.com/komodo-ide
+	
+	05 - Pythonhosted.org/spyder
+
+	06 - Damnwidget.github.io/anaconda
+	
+	
+#### Blogs legais
+
+	00 - Pythontips.com
+	
+	01 - Aprenda-python.blogspot.com.br
+	
+	02 - Pythonclub.com.br
+	
+	03 - Pythonhelp.wordpress.com
+	
+
+#### Exemplos de código python
+	
+	00 - Pymotw.com
+
+	01 - Codereview.stackexchange.com
+
+	02 - Pythonforbeginners.com
+	
+	03 - Programiz.com/python-programming/examples
+	
+	
+#### Suporte ao inglês	
 
 	00 - Pt.duolingo.com
 
@@ -23,12 +113,98 @@
 	04 - Translate.yandex.com
 
 	05 - Translate.google.com.br
+	
+	
+#### Slides
+	
+	00 - Speakerdeck.com
 
-	06 - Linguee.com.br
+	01 - Pt.slideshare.net
+	
+	02 - Slides.com
+	
+	
+#### Apresentações
 
-	07 - Bab.la
+	00 - Guido Van Rossum - Python Language ( youtube.com/watch?v=YgtL4S7Hrwo )
+	
+	01 - Iteração em Python : do básico ao genial - Luciano Ramalho ( youtu.be/ULj7ejvuzI8 )
+	
+	02 - Básico de Django Rest Framework - Pk Pacheco ( youtube.com/watch?v=im3bMuhfUj8 )
+	
+	03 - Python | Desenvolvimento Web - Giovane Liberato ( youtube.com/watch?v=yqviCcurVdc )
+	
+	04 - Jake Vanderplas - Statistics for Hackers ( youtube.com/watch?v=Iq9DzN6mvYA )
+	
+	05 - Python & Flask - Bruno Rocha ( youtube.com/watch?v=pfCPxjDpGco )
+	
+	06 - Desenvolvimento Web com Python e Bottle - Marcos Castro ( youtube.com/watch?v=j5e85tsSfoc )
+	
+	07 - Você ainda não aprendeu Python - Rafael Henrique ( youtube.com/watch?v=YDgR5unzty8&t=1648s )
 
-	08 - Englishexperts.com.br
+	08 - Poo com Python - Júlia Rizza ( youtube.com/watch?v=t-w1dEBc_o4 )
+	
+	09 - Python Aprenda na Prática ( youtube.com/watch?v=NFObSN67qM8 )
+	
+	10 - Bruno Rocha - Carreira de Programador e Mercado de Trabalho ( youtube.com/watch?v=Q8KyS8ikQMs )
+
+
+#### Cursos de python no youtube
+	
+	00 - Youtube.com/playlist?list=PLc-O0bhHdRmgp-CxB_eMHHM9LjefTZBTB ( Tutorial Python - Abel Separovich )
+
+	01 - Youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe ( Aulas Python - Ignorância Zero )
+
+	02 - Youtube.com/playlist?list=PL8eBmR3QtPL0j3QLEjQ6rcx8rVB8Ir893 ( Curso Python 300 - Marcos Castro )
+
+	03 - Youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc ( Python para Zumbis - Python para Zumbis )
+
+	04 - Youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj ( Curso de Python - eXcript )
+
+	05 - Youtube.com/playlist?list=PLO_xIfla8f1wbz386WVuvQ5kZa9Pz8_80 ( Curso de Programação em Python - Dd Tutoriais )
+
+	06 - Youtube.com/playlist?list=PL6f2gQ2RXLosWiXDHM7vOr1MPdfxPAm_t ( Grupo de Estudos Python - Rafael Henrique )
+
+	07 - Youtube.com/playlist?list=PLp95aw034Wn_WtEmlepaDrw8FU8R5azcm ( Curso Python Básico - Solyd )
+
+	08 - Youtube.com/playlist?list=PLbMc9DOHlK9xm2DQmDc3qS7yc2x1kZ_Qu ( Python para Hackers - Dragon Jar Tv )
+	
+	09 - Youtube.com/playlist?list=PLGSlfpoZqOm6e4FhqvGZOX5lPFhEXO3GY ( Curso de Python - Mania de Código )
+
+	10 - Youtube.com/playlist?list=PLpOqH6AE0tNiK7QN6AJo_3nVGQPc8nLdM ( Curso Python 3 - Codigo Facilito )
+
+	11 - Youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW ( Automate the Boring Stuff with Python - Blank Editor )
+	
+	12 - Youtube.com/playlist?list=PLTZIuMkWu9729XD1m65DQBjHqOHjeZEMa ( Django Na Prática Acesso Nerd )
+	
+	13 - Youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M ( Python 3 Basics Tutorial - Sent Dex )
+	
+	14 - Youtube.com/playlist?list=PL62G310vn6nHZ1d9QjFNgsJ6r5ABySjj4 ( Machine Learning - Dev Dojo )
+	
+	15 - Youtube.com/playlist?list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd ( Django Web Development - Sent Dex )
+	
+	16 - Youtube.com/playlist?list=PLcJTNR4FGIP9oIw0yaSlM-C_aO4PjhRGV ( Programação Python - Fenix Sec )
+	
+
+## Comunidades
+
+	00 - Reddit.com/r/Python ( En )
+
+	01 - Gitter.im/django/django || Gitter.im/pydata/pandas || Gitter.im/DjangoGirls/tutorial ( En )
+
+	02 - Respostas.guj.com.br/tag/python ( Br )
+
+	03 - Pt.stackoverflow.com/questions/tagged/python ( Br )
+
+	04 - Quora.com/topic/Python-programming-language-1 ( En )
+	
+	05 - Groups.google.com/forum/#!forum/python-brasil ( Br )
+
+	06 - Pythonanywhere.com/forums ( En )
+
+	07 - Bytes.com/topic/python ( En )
+
+	08 - Facebook.com/groups/python.brasil ( Br )
 
 
 ## " Livros " / Documentações / Artigos
@@ -74,20 +250,14 @@
 	19 - Inventwithpython.com/ ( En )
 	
 	20 - Gist.github.com/blepfo/efe59d762d8fffb0bf15af9962b1ea4c ( Python Avançado - En )
-	
-	21 - Penseallen.github.io/PensePython2e ( Br )
 
 
-## Visão da linguagem
-
-	00 - Stackoverflow.com/research/developer-survey-2016
-	
-	
 ## Libs
 
 	00 - Ericstk.files.wordpress.com/2014/09/pymap.png?w=756&h=756
 	
 	01 - Pypi.python.org/pypi
+
 	
 	
 ## Podcasts
@@ -101,74 +271,6 @@
 	03 - Podcastinit.com ( En )
 
 	04 - Python.madewithopinion.com ( En )
-
-
-## Comunidades
-
-	00 - Reddit.com/r/Python ( En )
-
-	01 - Gitter.im/django/django || Gitter.im/pydata/pandas || Gitter.im/DjangoGirls/tutorial ( En )
-
-	02 - Respostas.guj.com.br/tag/python ( Br )
-
-	03 - Pt.stackoverflow.com/questions/tagged/python ( Br )
-
-	04 - Quora.com/topic/Python-programming-language-1 ( En )
-	
-	05 - Groups.google.com/forum/#!forum/python-brasil ( Br )
-
-	06 - Pythonanywhere.com/forums ( En )
-
-	07 - Bytes.com/topic/python ( En )
-
-	08 - Sitepoint.com/community/c/python-perl-and-golang/python ( En )
-
-	09 - Facebook.com/groups/python.brasil ( Br )
-	
-	10 - Pythonbrasil.slack.com ( Br )
-
-
-## Empregos
-	
-	// Programador Python fala sobre o mercado de trabalho :
-	
-	// Youtube.com/watch?v=jvYQXvMBx9k
-	
-	
-	00 - Remoteok.io/remote-python-jobs ( En )
-	
-	01 - Infojobs.com.br/empregos.aspx?Palabra=Python ( Br )
-
-	02 - Workana.com/freelancers?query=Python ( Br )
-
-	03 - Landing.jobs/offers/?page=1&q=Python ( En )
-
-	04 - Python.org/jobs ( En )
-
-	05 - Linkedin.com/jobs/search/?keywords=Python ( Br / En )
-	
-	06 - Jobs.github.com/positions?description=Python ( En )
-
-	07 - Pythonjobs.com ( En )
-
-	08 - Upwork.com/o/jobs/browse/?q=Python ( En )
-
-	09 - Freelancer.com/jobs/Python/1/ ( En / Br )
-
-	10 - Stackoverflow.com/jobs/developer-jobs-using-python ( En )
-	
-	11 - Pythonjobs.github.io ( En )
-
-	12 - Trampos.co/oportunidades?tp[]=emprego&tr=Python ( Br )
-
-
-## Slides
-	
-	00 - Speakerdeck.com/search?utf8=✓&q=Python
-
-	01 - Pt.slideshare.net/search/slideshow?searchfrom=header&q=Python
-	
-	02 - Slides.com/explore?search=Python
 
 
 ## Conferências
@@ -188,8 +290,6 @@
 		00 - Brasil.pyladies.com
 		
 		01 - Djangogirls.org
-		
-		// Mulheresnacomputacao.com
 
 
 ## Meetups
@@ -236,135 +336,6 @@
 
 		// Wiki.python.org/moin/WebFrameworks
 
-	
-## Ide's
-	
-	00 - Pydev.org
-	
-	01 - Geany.org
-	
-	02 - Jetbrains.com/pycharm
-	
-	03 - Eclipse.org
-	
-	04 - Activestate.com/komodo-ide
-	
-	05 - Pythonhosted.org/spyder/installation.html
-
-	06 - Damnwidget.github.io/anaconda
-
-
-## Cursos no Youtube
-	
-	00 - Youtube.com/playlist?list=PLc-O0bhHdRmgp-CxB_eMHHM9LjefTZBTB
-
-	01 - Youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe 
-
-	02 - Youtube.com/playlist?list=PL8eBmR3QtPL0j3QLEjQ6rcx8rVB8Ir893
-
-	03 - Youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc
-
-	04 - Youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj
-
-	05 - Youtube.com/playlist?list=PLO_xIfla8f1wbz386WVuvQ5kZa9Pz8_80 
-
-	06 - Youtube.com/playlist?list=PL6f2gQ2RXLosWiXDHM7vOr1MPdfxPAm_t
-
-	07 - Youtube.com/playlist?list=PLp95aw034Wn_WtEmlepaDrw8FU8R5azcm
-
-	08 - Youtube.com/playlist?list=PLbMc9DOHlK9xm2DQmDc3qS7yc2x1kZ_Qu 
-	
-	09 - Youtube.com/playlist?list=PLGSlfpoZqOm6e4FhqvGZOX5lPFhEXO3GY
-
-	10 - Youtube.com/playlist?list=PLpOqH6AE0tNiK7QN6AJo_3nVGQPc8nLdM
-
-	11 - Youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW
-	
-	12 - Youtube.com/playlist?list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE ( Python & Tkinter )
-	
-	13 - Youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M ( Python & Sockets )
-	
-	14 - Youtube.com/playlist?list=PL62G310vn6nHZ1d9QjFNgsJ6r5ABySjj4 ( Python & Machine Learn )
-	
-	15 - Youtube.com/playlist?list=PLTsvygy5wcFjDKKN7Jip6hp3QXSM14B5l ( Python & Django 1.8 )
-	
-	16 - Youtube.com/playlist?list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd ( Python & Django )
-	
-	17 - Youtube.com/playlist?list=PLcJTNR4FGIP9oIw0yaSlM-C_aO4PjhRGV ( Python & Hacking )
-	
-	18 - Youtube.com/playlist?list=PLTZIuMkWu9729XD1m65DQBjHqOHjeZEMa ( Python & Django )
-	
-	18 - Youtube.com/watch?v=siVUal-TeMc ( Python & Nltk )
-	
-	19 - Youtube.com/watch?v=IGko0Co97mM ( Pyton & Android )
-	
-	
-	### Outras Plataformas
-
-	// Codeschool.com/courses/try-python
-	
-	// Udemy.com/courses/search/?q=Python
-	
-	// Br.udacity.com/course/programming-foundations-with-python--ud036
-	
-	// Edx.org/course?search_query=python
-
-
-## Exemplos de código
-	
-	Pymotw.com/3
-
-	Br.spoj.com
-
-	Codereview.stackexchange.com/?tags=python
-
-	Pythonforbeginners.com/code-snippets-source-code/python-code-examples
-	
-	Programiz.com/python-programming/examples
-
-
-## Certificações
-
-	00 - Certificacao.imasters.com.br ( Em Breve / Free )
-
-	// Wiki.python.org.br/DefesaPython && Groups.google.com/forum/#!topic/python-brasil/9JGLO3c6UkI
-
-
-## Apresentações
-
-	00 - Guido Van Rossum - Python Language ( youtube.com/watch?v=YgtL4S7Hrwo )
-	
-	01 - Iteração em Python: do básico ao genial - Luciano Ramalho ( youtu.be/ULj7ejvuzI8 )
-	
-	02 - Básico de Django Rest Framework - Pk Pacheco ( youtube.com/watch?v=im3bMuhfUj8 )
-	
-	03 - 7 Masters Python | Desenvolvimento Web - Giovane Liberato ( youtube.com/watch?v=yqviCcurVdc )
-	
-	04 - Jake Vanderplas - Statistics for Hackers ( youtube.com/watch?v=Iq9DzN6mvYA )
-	
-	05 - 7 Masters Python | Flask - Bruno Rocha ( youtube.com/watch?v=pfCPxjDpGco )
-	
-	06 - Desenvolvimento Web com Python e Bottle - Marcos Castro ( youtube.com/watch?v=j5e85tsSfoc )
-	
-	07 - Você ainda não aprendeu Python - Rafael Henrique ( youtube.com/watch?v=YDgR5unzty8&t=1648s )
-
-	08 - POO com Python - Júlia Rizza ( youtube.com/watch?v=t-w1dEBc_o4 )
-	
-	09 - Python Aprenda na Prática ( youtube.com/watch?v=NFObSN67qM8 )
-	
-	10 - Bruno Rocha - Carreira de Programador e Mercado de Trabalho ( youtube.com/watch?v=Q8KyS8ikQMs )
-	
-	
-## Blogs
-
-	00 - Pythontips.com
-	
-	01 - Aprenda-python.blogspot.com.br
-	
-	02 - Pythonclub.com.br
-	
-	03 - Pythonhelp.wordpress.com
-
 
 ## Banco de dados
 
@@ -382,15 +353,9 @@
 	
 	06 - Scylladb.com
 	
-	07 - Hbase.apache.org ( - Big Data )
-	
 	// Redis.io
 	
-	// Elastic.co
-	
 	// Apache.org || Nginx.com
-	
-	// Spark.apache.org
 	
 	
 ## Tools
@@ -427,11 +392,3 @@
 	
 	15 - Sphinx-doc.org
 
-
-## Vertentes
-
-	00 - Github.com/dloss/python-pentest-tools / Pentest
-	
-	01 - Github.com/AeroPython/awesome-scientific-computing / Science / Github.com/docmarionum1/python-data-science-primer
-	
-	
