@@ -214,6 +214,8 @@
 	08 - Facebook.com/groups/python.brasil ( Br )
 	
 	09 - Meetup.com/pt-BR/topics/python ( En / Br )
+	
+	10 - Pythonbrasil.slack.com ( Br )
 
 
 #### Livros / Documentações / Artigos
@@ -341,9 +343,11 @@
 	
 	06 - Hbase.apache.org
 	
-	// Redis.io
+	// Redis.io // Spark.apache.org
 	
 	// Apache.org || Nginx.com
+	
+	// Elastic.co
 	
 	
 #### Tools
