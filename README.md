@@ -99,6 +99,13 @@
 	
 	03 - Programiz.com/python-programming/examples
 	
+
+#### Libs
+
+	00 - Ericstk.files.wordpress.com/2014/09/pymap.png?w=756&h=756
+	
+	01 - Pypi.python.org/pypi
+	
 	
 #### Suporte ao inglês	
 
@@ -186,15 +193,15 @@
 	16 - Youtube.com/playlist?list=PLcJTNR4FGIP9oIw0yaSlM-C_aO4PjhRGV ( Programação Python - Fenix Sec )
 	
 
-## Comunidades
+#### Comunidades
 
-	00 - Reddit.com/r/Python ( En )
+	00 - Reddit.com/r/Python ( En / Br )
 
 	01 - Gitter.im/django/django || Gitter.im/pydata/pandas || Gitter.im/DjangoGirls/tutorial ( En )
 
 	02 - Respostas.guj.com.br/tag/python ( Br )
 
-	03 - Pt.stackoverflow.com/questions/tagged/python ( Br )
+	03 - Pt.stackoverflow.com/questions/tagged/python ( En / Br )
 
 	04 - Quora.com/topic/Python-programming-language-1 ( En )
 	
@@ -205,9 +212,11 @@
 	07 - Bytes.com/topic/python ( En )
 
 	08 - Facebook.com/groups/python.brasil ( Br )
+	
+	09 - Meetup.com/pt-BR/topics/python ( En / Br )
 
 
-## " Livros " / Documentações / Artigos
+#### Livros / Documentações / Artigos
 
 	00 - Pt.wikibooks.org/wiki/Python  ( Br / En )
 
@@ -250,30 +259,22 @@
 	19 - Inventwithpython.com/ ( En )
 	
 	20 - Gist.github.com/blepfo/efe59d762d8fffb0bf15af9962b1ea4c ( Python Avançado - En )
-
-
-## Libs
-
-	00 - Ericstk.files.wordpress.com/2014/09/pymap.png?w=756&h=756
 	
-	01 - Pypi.python.org/pypi
-
-	
-	
-## Podcasts
-
-	00 - Devnaestrada.com.br/2016/06/03/data-science.html ( Br )
-
-	01 - Castalio.info/category/podcast.html ( Br )
-
-	02 - Talkpython.fm ( En )
-
-	03 - Podcastinit.com ( En )
-
-	04 - Python.madewithopinion.com ( En )
+	21 - Github.com/PenseAllen/PensePython2e ( Br - En )
 
 
-## Conferências
+#### Podcasts
+
+	00 - Castalio.info/category/podcast.html ( Br )
+
+	01 - Talkpython.fm ( En )
+
+	02 - Podcastinit.com ( En )
+
+	03 - Python.madewithopinion.com ( En )
+
+
+#### Conferências
 
 	00 - Pythonbrasil.org.br
 
@@ -292,20 +293,7 @@
 		01 - Djangogirls.org
 
 
-## Meetups
-
-	00 - Meetup.com/pt-BR/topics/python
-	
-	01 - Meetup.com/pt-BR/Belo-Horizonte-Python-User-Group
-	
-	02 - Pythonrio.python.org.br
-	
-	03 - Meetup.com/pt-BR/Python-User-Group-Campinas
-
-	04 - Meetup.com/pt-BR/PyLadiesSP
-
-
-## Frameworks
+#### Frameworks
 	
 	### Gui
 
@@ -337,7 +325,7 @@
 		// Wiki.python.org/moin/WebFrameworks
 
 
-## Banco de dados
+#### Bancos de dados
 
 	00 - Postgresql.org
 	
@@ -349,16 +337,16 @@
 	
 	04 - Oracle.com
 	
-	05 - Hadoop.apache.org
+	05 - Scylladb.com
 	
-	06 - Scylladb.com
+	06 - Hbase.apache.org
 	
 	// Redis.io
 	
 	// Apache.org || Nginx.com
 	
 	
-## Tools
+#### Tools
 
 	00 - Virtualenv.pypa.io/en/stable
 
@@ -366,7 +354,7 @@
 
 	02 - Jupyter.org
 
-	03 - Github.com/python/cpython || Ipython.org || Jython.org
+	03 - Sphinx-doc.org
 
 	04 - Cmder.net
 
@@ -389,6 +377,3 @@
 	13 - Pt.wikipedia.org/wiki/Lista_de_distribuições_de_Linux
 	
 	14 - Analytics.google.com || Piwik.org
-	
-	15 - Sphinx-doc.org
-
