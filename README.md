@@ -12,6 +12,8 @@
 
 <a href="#Certificado">Certificado</a>
 
+<a href="#Voluntario">Voluntário</a>
+
 <a href="#Empregos">Empregos</a>
 
 <a href="#Vertentes">Vertentes</a>
@@ -62,6 +64,13 @@
 	00 - Certificacao.imasters.com.br ( Em Breve )
 
 	// Wiki.python.org.br/DefesaPython
+
+
+#### Projetos Voluntários <a name="Voluntario"></a>
+
+	00 - Openhatch.org
+	
+	01 - Launchpad.net/horizon
 	
 	
 #### Vagas de empregos <a name="Empregos"></a>
@@ -435,4 +444,4 @@
 	
 	14 - Analytics.google.com || Piwik.org
 	
-	15 - Wwwhere.io
+	15 - Wwwhere.io && Zapier.com/zapbook
