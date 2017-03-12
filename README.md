@@ -233,6 +233,8 @@
 	
 	17 - Youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU ( Python Tutorials - Corey Schafer )
 	
+	18 - Youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er- ( Python Computer Science - Socratica )
+	
 --------------------------
 #### Comunidades <a name="Comunidades"></a>
 
