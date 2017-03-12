@@ -1,78 +1,61 @@
 
 # Desenvolvedores Python
 
-<h6>Github.com/python</h6>
+[<h6>Github.com/python</h6>](https://github.com/python "Python")
 
 ![alt text](https://www.codeschool.com/blog/2016/01/27/why-python/0127-blog-beginnersPython-v2.png "Code School - Why Python")
 
 
-<a href="#Motivação">Motivação</a>
+<a href="#Motivação">Motivação</a>	|	<a href="#Visão">Visão Geral</a>
 
-<a href="#Visão">Visão Geral</a>
+<a href="#Certificado">Certificado</a>		|	<a href="#Voluntario">Voluntário</a>
 
-<a href="#Certificado">Certificado</a>
+<a href="#Empregos">Empregos</a>	 |	<a href="#Vertentes">Vertentes</a>
 
-<a href="#Voluntario">Voluntário</a>
+<a href="#Ides">Ide's</a>	|	<a href="#Blogs">Blogs</a>
 
-<a href="#Empregos">Empregos</a>
+<a href="#Exemplos">Exemplos</a>	|	<a href="#Libs">Libs</a>
 
-<a href="#Vertentes">Vertentes</a>
+<a href="#Inglês">Inglês</a>	|	<a href="#Slides">Slides</a>
 
-<a href="#Ides">Ide's</a>
+<a href="#Talks">Apresentações</a>	|	<a href="#Cursos">Cursos</a>
 
-<a href="#Blogs">Blogs</a>
+<a href="#Comunidades">Comunidades</a>		|	<a href="#Livros">Livros</a>
 
-<a href="#Exemplos">Exemplos</a>
+<a href="#Pods">Podcasts</a>	|	<a href="#Confs">Conferências</a>
 
-<a href="#Libs">Libs</a>
+<a href="#Frames">Frameworks</a>	|	<a href="#Bancos">Bancos de Dados</a>
 
-<a href="#Inglês">Inglês</a>
+<a href="#Tools">Tools</a>	|	<a href="#News">Newsletter</a>
 
-<a href="#Slides">Slides</a>
-
-<a href="#Talks">Apresentações</a>
-
-<a href="#Cursos">Cursos</a>
-
-<a href="#Comunidades">Comunidades</a>
-
-<a href="#Livros">Livros</a>
-
-<a href="#Pods">Podcasts</a>
-
-<a href="#Confs">Conferências</a>
-
-<a href="#Frames">Frameworks</a>
-
-<a href="#Bancos">Bancos de Dados</a>
-
-<a href="#Tools">Tools</a>
-
+--------------------------
 
 #### Motivo para aprender python <a name="Motivação"></a>
 
 	00 - Destroyallsoftware.com/talks/wat	
 	
-	
+--------------------------	
 #### Visão geral da linguagem <a name="Visão"></a>
 
 	00 - Stackoverflow.com/insights/survey/2016  ( Salário, área, comunidade ... )
 	
+	01 - News.ycombinator.com/item?id=3746692 ( Rank )
 	
+--------------------------	
 ####  Certificação <a name="Certificado"></a>
 
 	00 - Certificacao.imasters.com.br ( Em Breve )
 
 	// Wiki.python.org.br/DefesaPython
 
-
+--------------------------
 #### Projetos Voluntários <a name="Voluntario"></a>
 
 	00 - Openhatch.org
 	
 	01 - Launchpad.net/horizon
 	
-	
+--------------------------	
 #### Vagas de empregos <a name="Empregos"></a>
 	
 	// Programador Python fala sobre o mercado de trabalho ( Youtube.com/watch?v=jvYQXvMBx9k )
@@ -103,14 +86,14 @@
 
 	12 - Trampos.co ( Br )
 
-
+--------------------------
 #### Vertentes <a name="Vertentes"></a>
 
 	00 - Github.com/dloss/python-pentest-tools ( Pentest )
 	
 	01 - Github.com/AeroPython/awesome-scientific-computing ( ' Scientic ' )
 	
-	
+--------------------------	
 #### Ide's <a name="Ides"></a>
 	
 	00 - Pydev.org
@@ -127,7 +110,7 @@
 
 	06 - Damnwidget.github.io/anaconda
 	
-	
+--------------------------	
 #### Blogs legais <a name="Blogs"></a>
 
 	00 - Pythontips.com
@@ -142,7 +125,7 @@
 	
 	06 - Simpleisbetterthancomplex.com
 	
-
+--------------------------
 #### Exemplos de código python <a name="Exemplos"></a>
 	
 	00 - Pymotw.com
@@ -153,7 +136,7 @@
 	
 	03 - Programiz.com/python-programming/examples
 	
-
+--------------------------
 #### Libs <a name="Libs">Libs</a>
 
 	00 - Ericstk.files.wordpress.com/2014/09/pymap.png
@@ -162,7 +145,7 @@
 	
 	02 - Github.com/vinta/awesome-python
 	
-	
+--------------------------	
 #### Suporte ao inglês	<a name="Inglês"></a>
 
 	00 - Pt.duolingo.com
@@ -177,7 +160,7 @@
 
 	05 - Translate.google.com.br
 	
-	
+--------------------------	
 #### Slides <a name="Slides"></a>
 	
 	00 - Speakerdeck.com
@@ -186,7 +169,7 @@
 	
 	02 - Slides.com
 	
-	
+--------------------------	
 #### Apresentações <a name="Talks"></a>
 
 	00 - Guido Van Rossum - Python Language ( youtube.com/watch?v=YgtL4S7Hrwo )
@@ -211,7 +194,7 @@
 	
 	10 - Bruno Rocha - Carreira de Programador e Mercado de Trabalho ( youtube.com/watch?v=Q8KyS8ikQMs )
 
-
+--------------------------
 #### Cursos de python no youtube <a name="Cursos"></a>
 	
 	00 - Youtube.com/playlist?list=PLc-O0bhHdRmgp-CxB_eMHHM9LjefTZBTB ( Tutorial Python - Abel Separovich )
@@ -248,7 +231,9 @@
 	
 	16 - Youtube.com/playlist?list=PLcJTNR4FGIP9oIw0yaSlM-C_aO4PjhRGV ( Programação Python - Fenix Sec )
 	
-
+	17 - Youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU ( Python Tutorials - Corey Schafer )
+	
+--------------------------
 #### Comunidades <a name="Comunidades"></a>
 
 	00 - Reddit.com/r/Python ( En / Br )
@@ -273,7 +258,7 @@
 	
 	10 - Pythonbrasil.slack.com ( Br )
 
-
+--------------------------
 #### Livros / Documentações / Artigos <a name="Livros"></a>
 	
 	// Zealdocs.org || Devdocs.io
@@ -324,7 +309,7 @@
 	
 	22 - Garoa.net.br/wiki/Grupo_de_Estudos_Python ( En - Br )
 
-
+--------------------------
 #### Podcasts <a name="Pods"></a>
 
 	00 - Castalio.info/category/podcast.html ( Br )
@@ -335,7 +320,7 @@
 
 	03 - Python.madewithopinion.com ( En )
 
-
+--------------------------
 #### Conferências <a name="Confs"></a>
 
 	00 - Pythonbrasil.org.br
@@ -356,7 +341,7 @@
 		
 		01 - Djangogirls.org
 
-
+--------------------------
 #### Frameworks <a name="Frames"></a>
 	
 	### Gui
@@ -385,10 +370,14 @@
 		05 - Bottlepy.org
 		
 		06 - Quokkaproject.org
+		
+		07 - Falconframework.org
+		
+		08 - Tornadoweb.org
 
 		// Wiki.python.org/moin/WebFrameworks
 
-
+--------------------------
 #### Bancos de dados <a name="Bancos"></a>
 
 	00 - Postgresql.org
@@ -411,7 +400,7 @@
 	
 	// Elastic.co
 	
-	
+--------------------------	
 #### Tools <a name="Tools"></a>
 
 	00 - Virtualenv.pypa.io/en/stable
@@ -445,3 +434,14 @@
 	14 - Analytics.google.com || Piwik.org
 	
 	15 - Wwwhere.io && Zapier.com/zapbook
+	
+	16 - Kaggle.com ( Data Science )
+	
+	17 - Sharelatex.com && Mendeley.com
+	
+--------------------------
+#### Newsletter <a name="News"></a>
+
+	00 - Pythonweekly.com
+	
+	01 - Pycoders.com
