@@ -193,7 +193,13 @@
 	09 - Python Aprenda na Prática ( youtube.com/watch?v=NFObSN67qM8 )
 	
 	10 - Bruno Rocha - Carreira de Programador e Mercado de Trabalho ( youtube.com/watch?v=Q8KyS8ikQMs )
+	
+	11 - Qualidade de Software - Wellington Durães ( youtube.com/watch?v=n8sAGdxmsaQ )
+	
+	12 - Testes de Carga com Locust ( Python ) - Stefan Teixeira ( youtube.com/watch?v=riy0z8ltFeY )
 
+	13 - Learning Analytics : Utilizando Data Science para melhorar a educação ( youtube.com/watch?v=ugcu856_oZk )
+	
 --------------------------
 #### Cursos de python no youtube <a name="Cursos"></a>
 	
