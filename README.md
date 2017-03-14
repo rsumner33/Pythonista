@@ -441,6 +441,10 @@
 	
 	17 - Sharelatex.com && Mendeley.com
 	
+	18 - Ghostbin.com || Pastebin.com
+	
+	19 - Urionlinejudge.com.br || Hackerrank.com
+	
 --------------------------
 #### Newsletter <a name="News"></a>
 
