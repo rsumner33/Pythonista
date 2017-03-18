@@ -28,6 +28,8 @@
 
 <a href="#Tools">Tools</a>	|	<a href="#News">Newsletter</a>
 
+<a href="#Datas">Datasets</a>
+
 --------------------------
 
 #### Motivo para aprender python <a name="Motivação"></a>
@@ -137,7 +139,7 @@
 	03 - Programiz.com/python-programming/examples
 	
 --------------------------
-#### Libs <a name="Libs">Libs</a>
+#### Libs <a name="Libs"></a>
 
 	00 - Ericstk.files.wordpress.com/2014/09/pymap.png
 	
@@ -457,3 +459,28 @@
 	00 - Pythonweekly.com
 	
 	01 - Pycoders.com
+
+--------------------------
+#### Datasets <a name="Datas">
+
+	00 - Kaggle.com/datasets
+	
+	01 - En.wikipedia.org/wiki/Wikipedia:Database_download
+	
+	02 - Dados.gov.br
+	
+	03 - Github.com/fivethirtyeight/data
+	
+	04 - Dataviva.info
+	
+	05 - Reddit.com/r/datasets
+	
+	06 - Quandl.com
+	
+	07 - Github.com/caesar0301/awesome-public-datasets
+	
+	08 - Data.gov
+	
+	09 - Research.google.com/youtube8m
+	
+	10 - Drivendata.org
