@@ -318,6 +318,8 @@
 	21 - Github.com/PenseAllen/PensePython2e ( Br - En )
 	
 	22 - Garoa.net.br/wiki/Grupo_de_Estudos_Python ( En - Br )
+	
+	23 - Ark4n.wordpress.com/python ( Br )
 
 --------------------------
 #### Podcasts <a name="Pods"></a>
