@@ -115,6 +115,8 @@
 --------------------------	
 #### Blogs legais <a name="Blogs"></a>
 
+	// Github.com/dunderlabs/python_blogs
+
 	00 - Pythontips.com
 	
 	01 - Aprenda-python.blogspot.com.br
