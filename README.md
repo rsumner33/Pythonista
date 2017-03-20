@@ -461,6 +461,8 @@
 	00 - Pythonweekly.com
 	
 	01 - Pycoders.com
+	
+	02 - Importpython.com/newsletter
 
 --------------------------
 #### Datasets <a name="Datas">
