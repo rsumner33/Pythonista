@@ -127,6 +127,8 @@
 	
 	06 - Simpleisbetterthancomplex.com
 	
+	07 - Neylsoncrepalde.github.io
+	
 --------------------------
 #### Exemplos de código python <a name="Exemplos"></a>
 	
@@ -346,6 +348,8 @@
 	04 - Pymunich.com
 	
 	05 - Thedevelopersconference.com.br
+	
+	06 - Coletividad.org/events
 	
 	## Eventos para inclusão de mulheres
 	
