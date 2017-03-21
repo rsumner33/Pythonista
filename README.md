@@ -209,6 +209,8 @@
 --------------------------
 #### Cursos de python no youtube <a name="Cursos"></a>
 	
+	// Datascienceacademy.com.br/public-course?courseid=python-fundamentos
+	
 	00 - Youtube.com/playlist?list=PLc-O0bhHdRmgp-CxB_eMHHM9LjefTZBTB ( Tutorial Python - Abel Separovich )
 
 	01 - Youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe ( Aulas Python - Ignorância Zero )
