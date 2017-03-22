@@ -39,7 +39,7 @@
 --------------------------	
 #### Visão geral da linguagem <a name="Visão"></a>
 
-	00 - Stackoverflow.com/insights/survey/2016  ( Salário, área, comunidade ... )
+	00 - Stackoverflow.com/insights/survey/2017  ( Salário, área, comunidade ... )
 	
 	01 - News.ycombinator.com/item?id=3746692 ( Rank )
 	
