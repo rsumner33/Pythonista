@@ -131,6 +131,8 @@
 	
 	07 - Neylsoncrepalde.github.io
 	
+	08 - Dbader.org/blog
+	
 --------------------------
 #### Exemplos de código python <a name="Exemplos"></a>
 	
