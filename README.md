@@ -467,6 +467,8 @@
 	
 	19 - Urionlinejudge.com.br || Hackerrank.com
 	
+	20 - Pytools.codeplex.com
+	
 --------------------------
 #### Newsletter <a name="News"></a>
 
