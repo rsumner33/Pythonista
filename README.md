@@ -43,6 +43,8 @@
 	
 	01 - News.ycombinator.com/item?id=3746692 ( Rank )
 	
+	03 - Octoverse.github.com
+	
 --------------------------	
 ####  Certificação <a name="Certificado"></a>
 
