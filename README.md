@@ -428,6 +428,8 @@
 	
 	// Elastic.co
 	
+	// Dbdesigner.net
+	
 --------------------------	
 #### Tools <a name="Tools"></a>
 
@@ -473,6 +475,8 @@
 	
 	20 - Pytools.codeplex.com
 	
+	21 - Mockflow.com
+
 --------------------------
 #### Newsletter <a name="News"></a>
 
