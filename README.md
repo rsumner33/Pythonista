@@ -253,6 +253,8 @@
 	
 	18 - Youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er- ( Python Computer Science - Socratica )
 	
+	19 - Youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6 ( Curso de Python pra quem quer mesmo aprender Python )
+	
 --------------------------
 #### Comunidades <a name="Comunidades"></a>
 
