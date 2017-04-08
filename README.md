@@ -12,7 +12,7 @@
 
 <a href="#Empregos">Empregos</a>	 |	<a href="#Vertentes">Vertentes</a>
 
-<a href="#Ides">Ide's</a>	|	<a href="#Blogs">Blogs</a>
+<a href="#Ides">Ide's</a>	|	<a href="#f">Blogs</a>
 
 <a href="#Exemplos">Exemplos</a>	|	<a href="#Libs">Libs</a>
 
@@ -135,6 +135,10 @@
 	
 	08 - Dbader.org/blog
 	
+	09 - Medium.com/grupy-rn
+	
+	10 - Codigoavulso.com.br
+	
 --------------------------
 #### Exemplos de código python <a name="Exemplos"></a>
 	
@@ -209,6 +213,10 @@
 	12 - Testes de Carga com Locust ( Python ) - Stefan Teixeira ( youtube.com/watch?v=riy0z8ltFeY )
 
 	13 - Learning Analytics : Utilizando Data Science para melhorar a educação ( youtube.com/watch?v=ugcu856_oZk )
+	
+	14 - Estratégias de Branches - Code Rockr ( youtube.com/watch?v=0JDFcT3uCSs )
+	
+	15 - Dave Halter – Python is Weird ( youtube.com/watch?v=6NVUbO7pFtA )
 	
 --------------------------
 #### Cursos de python no youtube <a name="Cursos"></a>
@@ -332,7 +340,9 @@
 	22 - Garoa.net.br/wiki/Grupo_de_Estudos_Python ( En - Br )
 	
 	23 - Ark4n.wordpress.com/python ( Br )
-
+	
+	24 - Humblebundle.com/books/python-book-bundle ( En )
+	
 --------------------------
 #### Podcasts <a name="Pods"></a>
 
