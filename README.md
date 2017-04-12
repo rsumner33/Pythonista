@@ -351,63 +351,49 @@
 --------------------------
 #### Frameworks <a name="Frames"></a>
 	
-	### Gui
-
-		00 - Kivy.org
-
-		01 - Piverbankcomputing.com/software/pyqt/intro
-
-		02 - Wiki.qt.io/PySide
-
-		03 - Docs.python.org/2/library/tkinter.html
-		
+	Gui
 	
-	### Web
+[Kivy](http://kivy.org/)
 
-		00 - Djangoproject.com
-		
-		01 - Trypyramid.com
+[Py Qt](http://pythonqt.sourceforge.net/)
 
-		02 - Flask.pocoo.org
-		
-		03 - Web2py.com
-		
-		04 - Plone.org
-		
-		05 - Bottlepy.org
-		
-		06 - Quokkaproject.org
-		
-		07 - Falconframework.org
-		
-		08 - Tornadoweb.org
+[Py Side](http://wiki.qt.io/PySide)
 
-		// Wiki.python.org/moin/WebFrameworks
+[Tkinter](https://docs.python.org/2/library/tkinter.html)
+	
+	Web
+[Django](https://www.djangoproject.com/)
 
+[Flask](http://flask.pocoo.org/)
+
+[Web 2 Py](http://web2py.com/)
+
+[Bottle Py](http://bottlepy.org/docs/dev/)
+
+[Plone](https://plone.org/)
+
+[Quokka Cms](http://quokkaproject.org/)
+	
+[Tornado Web](http://www.tornadoweb.org/en/stable/)
+
+[Try Py](http://trypyramid.com/)
+		
 --------------------------
 #### Bancos de dados <a name="Bancos"></a>
+	
+	Tools relacionadas : Redis, Spark, Apache, Nginx, Elastic, Db Designer
+	
+[Mongo Db](http://mongodb.com/)
 
-	00 - Postgresql.org
-	
-	01 - Sqlite.org
-	
-	02 - Mongodb.com
-	
-	03 - Mysql.com
-	
-	04 - Oracle.com
-	
-	05 - Scylladb.com
-	
-	06 - Hbase.apache.org
-	
-	// Redis.io // Spark.apache.org
-	
-	// Apache.org || Nginx.com
-	
-	// Elastic.co
-	
-	// Dbdesigner.net
+[Mysql](http://mysql.com/)
+
+[Scylla Db](http://www.scylladb.com/)
+
+[HBase](http://hbase.apache.org/)
+
+[Postgre Sql](https://www.postgresql.org/)
+
+[Oracle Db](https://www.oracle.com/index.html)
 	
 --------------------------	
 #### Tools <a name="Tools"></a>
@@ -459,33 +445,23 @@
 --------------------------
 #### Newsletter <a name="News"></a>
 
-	00 - Pythonweekly.com
-	
-	01 - Pycoders.com
-	
-	02 - Importpython.com/newsletter
+[Import Python](http://importpython.com/newsletter/)
+
+[Py Coders](http://pycoders.com/)
+
+[Python Weekly](http://www.pythonweekly.com/)
 
 --------------------------
 #### Datasets <a name="Datas">
 
-	00 - Kaggle.com/datasets
-	
-	01 - En.wikipedia.org/wiki/Wikipedia:Database_download
-	
-	02 - Dados.gov.br
-	
-	03 - Github.com/fivethirtyeight/data
-	
-	04 - Dataviva.info
-	
-	05 - Reddit.com/r/datasets
-	
-	06 - Quandl.com
-	
-	07 - Github.com/caesar0301/awesome-public-datasets
-	
-	08 - Data.gov
-	
-	09 - Research.google.com/youtube8m
-	
-	10 - Drivendata.org
+[Kaggle](https://www.kaggle.com/datasets)
+
+[Quandl](https://www.quandl.com/)
+
+[Data Viva](http://dataviva.info/pt/)
+
+[Data Gov](https://www.data.gov/)
+
+[Dados Gov](http://dados.gov.br/)
+
+[Git Datas](https://github.com/fivethirtyeight/data)
