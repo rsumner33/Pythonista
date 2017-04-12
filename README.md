@@ -196,47 +196,31 @@
 --------------------------
 #### Cursos de python no youtube <a name="Cursos"></a>
 	
-	Datascienceacademy.com.br/public-course?courseid=python-fundamentos
-	
-	00 - Youtube.com/playlist?list=PLc-O0bhHdRmgp-CxB_eMHHM9LjefTZBTB ( Tutorial Python - Abel Separovich )
+	Opção com vários cursos grátis de python : Datascienceacademy.com.br
 
-	01 - Youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe ( Aulas Python - Ignorância Zero )
+[Python Básico Solyd](Youtube.com/playlist?list=PLp95aw034Wn_WtEmlepaDrw8FU8R5azcm)
 
-	02 - Youtube.com/playlist?list=PL8eBmR3QtPL0j3QLEjQ6rcx8rVB8Ir893 ( Curso Python 300 - Marcos Castro )
+[Python Ignorância Zero](Youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
 
-	03 - Youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc ( Python para Zumbis - Python para Zumbis )
+[Python para Zumbis](Youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
 
-	04 - Youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj ( Curso de Python - eXcript )
+[Python eXcript](Youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj)
 
-	05 - Youtube.com/playlist?list=PLO_xIfla8f1wbz386WVuvQ5kZa9Pz8_80 ( Curso de Programação em Python - Dd Tutoriais )
+[Python Mania de Código](Youtube.com/playlist?list=PLGSlfpoZqOm6e4FhqvGZOX5lPFhEXO3GY)
 
-	06 - Youtube.com/playlist?list=PL6f2gQ2RXLosWiXDHM7vOr1MPdfxPAm_t ( Grupo de Estudos Python - Rafael Henrique )
+[Python 3 Codigo Facilito](Youtube.com/playlist?list=PLpOqH6AE0tNiK7QN6AJo_3nVGQPc8nLdM)
 
-	07 - Youtube.com/playlist?list=PLp95aw034Wn_WtEmlepaDrw8FU8R5azcm ( Curso Python Básico - Solyd )
+[Grupo de Estudos Python](Youtube.com/playlist?list=PL6f2gQ2RXLosWiXDHM7vOr1MPdfxPAm_t)
 
-	08 - Youtube.com/playlist?list=PLbMc9DOHlK9xm2DQmDc3qS7yc2x1kZ_Qu ( Python para Hackers - Dragon Jar Tv )
-	
-	09 - Youtube.com/playlist?list=PLGSlfpoZqOm6e4FhqvGZOX5lPFhEXO3GY ( Curso de Python - Mania de Código )
+[Python - Dd Tutoriais](Youtube.com/playlist?list=PLO_xIfla8f1wbz386WVuvQ5kZa9Pz8_80)
 
-	10 - Youtube.com/playlist?list=PLpOqH6AE0tNiK7QN6AJo_3nVGQPc8nLdM ( Curso Python 3 - Codigo Facilito )
+[Python Tutorials - Corey Schafer](Youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
-	11 - Youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW ( Automate the Boring Stuff with Python - Blank Editor )
-	
-	12 - Youtube.com/playlist?list=PLTZIuMkWu9729XD1m65DQBjHqOHjeZEMa ( Django Na Prática Acesso Nerd )
-	
-	13 - Youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M ( Python 3 Basics Tutorial - Sent Dex )
-	
-	14 - Youtube.com/playlist?list=PL62G310vn6nHZ1d9QjFNgsJ6r5ABySjj4 ( Machine Learning - Dev Dojo )
-	
-	15 - Youtube.com/playlist?list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd ( Django Web Development - Sent Dex )
-	
-	16 - Youtube.com/playlist?list=PLcJTNR4FGIP9oIw0yaSlM-C_aO4PjhRGV ( Programação Python - Fenix Sec )
-	
-	17 - Youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU ( Python Tutorials - Corey Schafer )
-	
-	18 - Youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er- ( Python Computer Science - Socratica )
-	
-	19 - Youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6 ( Curso de Python pra quem quer mesmo aprender Python )
+[Python - Abel Separovich](Youtube.com/playlist?list=PLc-O0bhHdRmgp-CxB_eMHHM9LjefTZBTB)
+
+[Python 3 - Sent Dex](Youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+
+[Python Básico](Youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 	
 --------------------------
 #### Comunidades <a name="Comunidades"></a>
@@ -262,59 +246,35 @@
 [Python Brasil - Slack](http://pythonbrasil.slack.com/)
 
 --------------------------
-#### Livros / Documentações / Artigos <a name="Livros"></a>
+#### Livros / Documentações <a name="Livros"></a>
 	
-	// Zealdocs.org || Devdocs.io
+	Documentações online : Zealdocs.org, Devdocs.io ...
+
+[Python Books](http://pythonbooks.revolunet.com/)
+
+[Pense Python](https://github.com/PenseAllen/PensePython2e) [ - Alternativa](Drive.google.com/file/d/0B_XYij1eGClZaUNCdE9TRGVpbGM/view)
+
+[Python Turing](http://turing.com.br/pydoc/2.7/tutorial/)
+
+[Python Fácil](http://felipegalvao.com.br/static/ebooks/Ebook_Python_basico.zip)
+
+[Python Swaroopch](https://python.swaroopch.com/)
+
+[Python Para Desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf)
+
+[Online Programming Books](http://www.onlineprogrammingbooks.com/python/)
+
+[Documentation Python 3](https://docs.python.org/3/)
+
+[Curso de Verão - Python](https://gabrielacavalcante.gitbooks.io/python/content/)
+
+[Humble Bundle Python](https://www.humblebundle.com/books/python-book-bundle)
+
+[Intro To Advanced Python](https://gist.github.com/blepfo/efe59d762d8fffb0bf15af9962b1ea4c)
+
+[Wiki Books Python](https://pt.wikibooks.org/wiki/Python)
 	
-	00 - Pt.wikibooks.org/wiki/Python  ( Br / En )
-
-	01 - Pt.wikipedia.org/wiki/Python ( Br / En )
-
-	02 - Apress.com/us/book/9781484225400 ( En )
-
-	03 - Gabrielacavalcante.gitbooks.io/python/content ( Br )
-
-	04 - Python.swaroopch.com ( En )
-
-	05 - Github.com/Junnplus/awesome-python-books ( En )
-
-	06 - Github.com/vhf/free-programming-books ( Diversos Idiomas )	
-
-	07 - Casadocodigo.com.br/products/livro-python-3 ( Br )
-
-	08 - Felipegalvao.com.br/livros ( Br )
-	
-	09 - Novatec.com.br/livros/guia-do-mochileiro-python ( Br )
-
-	10 - Novatec.com.br/livros/python-para-desenvolvedores ( Br )
-
-	11 - Onlineprogrammingbooks.com/python ( En )
-
-	12 - Pythonbooks.revolunet.com ( En )
-	
-	13 - Pythontips.com/2014/02/04/free-python-books ( En )
-
-	14 - Docs.python.org/3 ( En )
-
-	15 - Turing.com.br/pydoc/2.7/tutorial ( Br )
-	
-	16 - Lectures.quantecon.org/py/index.html ( En )
-	
-	17 - Drive.google.com/file/d/0B_XYij1eGClZaUNCdE9TRGVpbGM/view ( Br )
-	
-	18 - Liveedu.tv/learn/python ( En )
-	
-	19 - Inventwithpython.com/ ( En )
-	
-	20 - Gist.github.com/blepfo/efe59d762d8fffb0bf15af9962b1ea4c ( Python Avançado - En )
-	
-	21 - Github.com/PenseAllen/PensePython2e ( Br - En )
-	
-	22 - Garoa.net.br/wiki/Grupo_de_Estudos_Python ( En - Br )
-	
-	23 - Ark4n.wordpress.com/python ( Br )
-	
-	24 - Humblebundle.com/books/python-book-bundle ( En )
+	Boas opções para comprar livros : Casadocodigo.com.br, Novatec.com.br...
 	
 --------------------------
 #### Podcasts <a name="Pods"></a>
