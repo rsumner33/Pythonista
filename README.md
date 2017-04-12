@@ -5,14 +5,13 @@
 
 ![alt text](https://www.codeschool.com/blog/2016/01/27/why-python/0127-blog-beginnersPython-v2.png "Code School - Why Python")
 
-
 <a href="#Motivação">Motivação</a>	|	<a href="#Visão">Visão Geral</a>
 
 <a href="#Certificado">Certificado</a>		|	<a href="#Voluntario">Voluntário</a>
 
 <a href="#Empregos">Empregos</a>	 |	<a href="#Vertentes">Vertentes</a>
 
-<a href="#Ides">Ide's</a>	|	<a href="#f">Blogs</a>
+<a href="#Ides">Ide's</a>	|	<a href="#Blogs">Blogs</a>
 
 <a href="#Exemplos">Exemplos</a>	|	<a href="#Libs">Libs</a>
 
@@ -34,85 +33,75 @@
 
 #### Motivo para aprender python <a name="Motivação"></a>
 
-	00 - Destroyallsoftware.com/talks/wat	
+[Destroy All Software](https://www.destroyallsoftware.com/talks/wat)	
 	
 --------------------------	
 #### Visão geral da linguagem <a name="Visão"></a>
 
-	00 - Stackoverflow.com/insights/survey/2017  ( Salário, área, comunidade ... )
+[Stack Over Flow - Insights](http://stackoverflow.com/insights/survey/2017)
+
+[Hack News - Rank](https://news.ycombinator.com/item?id=3746692)
 	
-	01 - News.ycombinator.com/item?id=3746692 ( Rank )
-	
-	03 - Octoverse.github.com
+[Octoverse](https://octoverse.github.com/)
 	
 --------------------------	
 ####  Certificação <a name="Certificado"></a>
 
-	00 - Certificacao.imasters.com.br ( Em Breve )
-
-	// Wiki.python.org.br/DefesaPython
+[Python - iMasters](http://certificacao.imasters.com.br/) ( Em Breve )
 
 --------------------------
 #### Projetos Voluntários <a name="Voluntario"></a>
 
-	00 - Openhatch.org
-	
-	01 - Launchpad.net/horizon
+[Open Hatch](https://openhatch.org/)
 	
 --------------------------	
 #### Vagas de empregos <a name="Empregos"></a>
 	
-	// Programador Python fala sobre o mercado de trabalho ( Youtube.com/watch?v=jvYQXvMBx9k )
+	Programador Python fala sobre o mercado de trabalho ( Youtube.com/watch?v=jvYQXvMBx9k )
 
-	00 - Remoteok.io ( En )
+[Remote Ok](http://remoteok.io/)
 	
-	01 - Infojobs.com.br ( Br )
+[Info Jobs](http://www.infojobs.com.br/)
 
-	02 - Workana.com ( Br )
+[Workana](https://www.workana.com/)
 
-	03 - Landing.jobs ( En )
+[Loading Jobs](https://landing.jobs/)
 
-	04 - Python.org/jobs ( En )
+[Linkedin](https://www.linkedin.com/)
 
-	05 - Linkedin.com ( Br / En )
-	
-	06 - Jobs.github.com ( En )
+[Python Jobs](https://www.python.org/jobs/)
 
-	07 - Pythonjobs.com ( En )
+[Jobs Github](https://jobs.github.com/)
 
-	08 - Upwork.com ( En )
+[Freelancer](https://www.freelancer.com/)
 
-	09 - Freelancer.com ( En / Br )
+[Stack Over Flow Jobs](http://stackoverflow.com/jobs)
 
-	10 - Stackoverflow.com/jobs ( En )
-	
-	11 - Pythonjobs.github.io ( En )
-
-	12 - Trampos.co ( Br )
+[Jobs Python](https://www.pythonjobs.com/)
 
 --------------------------
 #### Vertentes <a name="Vertentes"></a>
 
-	00 - Github.com/dloss/python-pentest-tools ( Pentest )
+[Python Awesome Pentest](https://github.com/dloss/python-pentest-tools)
 	
-	01 - Github.com/AeroPython/awesome-scientific-computing ( ' Scientic ' )
+[Python Awesome Scientific](https://github.com/AeroPython/awesome-scientific-computing)
 	
 --------------------------	
 #### Ide's <a name="Ides"></a>
-	
-	00 - Pydev.org
-	
-	01 - Geany.org
-	
-	02 - Jetbrains.com/pycharm
-	
-	03 - Eclipse.org
-	
-	04 - Activestate.com/komodo-ide
-	
-	05 - Pythonhosted.org/spyder
 
-	06 - Damnwidget.github.io/anaconda
+[Spyder](http://pythonhosted.org/spyder/)
+
+[Py Charm](http://jetbrains.com/pycharm)
+
+[Geany](http://geany.org/)
+
+[Eclipse](http://www.eclipse.org/)
+
+[Py Dev](http://www.pydev.org/)
+
+[Komodo](https://www.activestate.com/komodo-ide)
+	
+[Anaconda Ide](http://damnwidget.github.io/anaconda/)
 	
 --------------------------	
 #### Blogs legais <a name="Blogs"></a>
