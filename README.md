@@ -57,7 +57,7 @@
 --------------------------	
 #### Vagas de empregos <a name="Empregos"></a>
 	
-	Programador Python fala sobre o mercado de trabalho ( Youtube.com/watch?v=jvYQXvMBx9k )
+	Programador Python fala sobre o mercado de trabalho : Youtube.com/watch?v=jvYQXvMBx9k
 
 [Remote Ok](http://remoteok.io/)
 	
@@ -106,71 +106,57 @@
 --------------------------	
 #### Blogs legais <a name="Blogs"></a>
 
-	// Github.com/dunderlabs/python_blogs
+[Python Tips](https://pythontips.com/)
 
-	00 - Pythontips.com
-	
-	01 - Aprenda-python.blogspot.com.br
-	
-	02 - Pythonclub.com.br
-	
-	03 - Pythonhelp.wordpress.com
-	
-	05 - Realpython.com/blog
-	
-	06 - Simpleisbetterthancomplex.com
-	
-	07 - Neylsoncrepalde.github.io
-	
-	08 - Dbader.org/blog
-	
-	09 - Medium.com/grupy-rn
-	
-	10 - Codigoavulso.com.br
+[Python Help](https://pythonhelp.wordpress.com/)
+
+[Aprenda Python](http://aprenda-python.blogspot.com.br/)
+
+[Simple Is Better Than Complex](https://simpleisbetterthancomplex.com/)
+
+[Python Club](http://pythonclub.com.br/)
+
+[Código Avulso](http://codigoavulso.com.br/)
+
+[Python For Beginners](http://www.pythonforbeginners.com/)
+
 	
 --------------------------
 #### Exemplos de código python <a name="Exemplos"></a>
 	
-	00 - Pymotw.com
+[Code Review](http://codereview.stackexchange.com/questions/tagged/python)
 
-	01 - Codereview.stackexchange.com
+[Programiz](https://www.programiz.com/python-programming/examples)
 
-	02 - Pythonforbeginners.com
-	
-	03 - Programiz.com/python-programming/examples
+[Py Motw](https://pymotw.com/3/)
 	
 --------------------------
 #### Libs <a name="Libs"></a>
 
-	00 - Ericstk.files.wordpress.com/2014/09/pymap.png
+	Mais importantes : Ericstk.files.wordpress.com/2014/09/pymap.png
 	
-	01 - Pypi.python.org/pypi
-	
-	02 - Github.com/vinta/awesome-python
+[Py Pi](https://pypi.python.org/pypi)
 	
 --------------------------	
 #### Suporte ao inglês	<a name="Inglês"></a>
 
-	00 - Pt.duolingo.com
+[Duolingo](https://pt.duolingo.com/)
 
-	01 - Memrise.com
+[Busuu](http://busuu.com/)
 
-	02 - Busuu.com
+[Grammar](https://www.grammarly.com/)
 
-	03 - Grammarly.com
+[Yandex](http://translate.yandex.com/)
 
-	04 - Translate.yandex.com
-
-	05 - Translate.google.com.br
 	
 --------------------------	
 #### Slides <a name="Slides"></a>
-	
-	00 - Speakerdeck.com
 
-	01 - Pt.slideshare.net
-	
-	02 - Slides.com
+[Speaker Deck](https://speakerdeck.com/)
+
+[Slide Share](https://pt.slideshare.net/)
+
+[Slides](https://slides.com/)
 	
 --------------------------	
 #### Apresentações <a name="Talks"></a>
