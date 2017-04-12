@@ -161,42 +161,42 @@
 --------------------------	
 #### Apresentações <a name="Talks"></a>
 
-	00 - Guido Van Rossum - Python Language ( youtube.com/watch?v=YgtL4S7Hrwo )
+[Guido Van Rossum - Python Language](https://www.youtube.com/watch?v=YgtL4S7Hrwo)
 	
-	01 - Iteração em Python : do básico ao genial - Luciano Ramalho ( youtu.be/ULj7ejvuzI8 )
+[Iteração em Python : Do básico ao genial - Luciano Ramalho](https://www.youtube.com/watch?v=ULj7ejvuzI8&feature=youtu.be)
 	
-	02 - Básico de Django Rest Framework - Pk Pacheco ( youtube.com/watch?v=im3bMuhfUj8 )
+[Básico de Django Rest Framework - Pk Pacheco](https://www.youtube.com/watch?v=im3bMuhfUj8)
 	
-	03 - Python | Desenvolvimento Web - Giovane Liberato ( youtube.com/watch?v=yqviCcurVdc )
+[Desenvolvimento Web - Giovane Liberato](https://www.youtube.com/watch?v=yqviCcurVdc)
 	
-	04 - Jake Vanderplas - Statistics for Hackers ( youtube.com/watch?v=Iq9DzN6mvYA )
+[Jake Vanderplas - Statistics for Hackers](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
 	
-	05 - Python & Flask - Bruno Rocha ( youtube.com/watch?v=pfCPxjDpGco )
+[Python & Flask - Bruno Rocha](https://www.youtube.com/watch?v=pfCPxjDpGco)
 	
-	06 - Desenvolvimento Web com Python e Bottle - Marcos Castro ( youtube.com/watch?v=j5e85tsSfoc )
+[Desenvolvimento Web com Python e Bottle - Marcos Castro](https://www.youtube.com/watch?v=j5e85tsSfoc)
 	
-	07 - Você ainda não aprendeu Python - Rafael Henrique ( youtube.com/watch?v=YDgR5unzty8&t=1648s )
+[Você ainda não aprendeu Python - Rafael Henrique](https://www.youtube.com/watch?v=YDgR5unzty8&t=1648s)
 
-	08 - Poo com Python - Júlia Rizza ( youtube.com/watch?v=t-w1dEBc_o4 )
+[Poo com Python - Júlia Rizza](https://www.youtube.com/watch?v=t-w1dEBc_o4)
 	
-	09 - Python Aprenda na Prática ( youtube.com/watch?v=NFObSN67qM8 )
+[Python Aprenda na Prática](https://www.youtube.com/watch?v=NFObSN67qM8)
 	
-	10 - Bruno Rocha - Carreira de Programador e Mercado de Trabalho ( youtube.com/watch?v=Q8KyS8ikQMs )
+[Bruno Rocha - Carreira de Programador e Mercado de Trabalho](https://www.youtube.com/watch?v=Q8KyS8ikQMs)
 	
-	11 - Qualidade de Software - Wellington Durães ( youtube.com/watch?v=n8sAGdxmsaQ )
+[Qualidade de Software - Wellington Durães](https://www.youtube.com/watch?v=n8sAGdxmsaQ)
 	
-	12 - Testes de Carga com Locust ( Python ) - Stefan Teixeira ( youtube.com/watch?v=riy0z8ltFeY )
+[Testes de Carga com Locust - Stefan Teixeira](https://www.youtube.com/watch?v=riy0z8ltFeY)
 
-	13 - Learning Analytics : Utilizando Data Science para melhorar a educação ( youtube.com/watch?v=ugcu856_oZk )
+[Learning Analytics : Utilizando Data Science para melhorar a educação](https://www.youtube.com/watch?v=ugcu856_oZk)
 	
-	14 - Estratégias de Branches - Code Rockr ( youtube.com/watch?v=0JDFcT3uCSs )
+[Estratégias de Branches - Code Rockr](https://www.youtube.com/watch?v=0JDFcT3uCSs)
 	
-	15 - Dave Halter – Python is Weird ( youtube.com/watch?v=6NVUbO7pFtA )
+[Dave Halter – Python is Weird](https://www.youtube.com/watch?v=6NVUbO7pFtA)
 	
 --------------------------
 #### Cursos de python no youtube <a name="Cursos"></a>
 	
-	// Datascienceacademy.com.br/public-course?courseid=python-fundamentos
+	Datascienceacademy.com.br/public-course?courseid=python-fundamentos
 	
 	00 - Youtube.com/playlist?list=PLc-O0bhHdRmgp-CxB_eMHHM9LjefTZBTB ( Tutorial Python - Abel Separovich )
 
@@ -241,27 +241,25 @@
 --------------------------
 #### Comunidades <a name="Comunidades"></a>
 
-	00 - Reddit.com/r/Python ( En / Br )
+[Stack Over Flow](http://pt.stackoverflow.com/questions/tagged/python)
 
-	01 - Gitter.im/django/django || Gitter.im/pydata/pandas || Gitter.im/DjangoGirls/tutorial ( En )
+[Python Brasil - Facebook](https://www.facebook.com/groups/python.brasil)
 
-	02 - Respostas.guj.com.br/tag/python ( Br )
+[Reddit](https://www.reddit.com/r/Python/)
 
-	03 - Pt.stackoverflow.com/questions/tagged/python ( En / Br )
+[Guj](http://respostas.guj.com.br/tag/python)
 
-	04 - Quora.com/topic/Python-programming-language-1 ( En )
-	
-	05 - Groups.google.com/forum/#!forum/python-brasil ( Br )
+[Gitter](http://gitter.im/django/django)
 
-	06 - Pythonanywhere.com/forums ( En )
+[Quora](https://www.quora.com/topic/Python-programming-language-1)
 
-	07 - Bytes.com/topic/python ( En )
+[Python - Google Groups](http://groups.google.com/forum/#!forum/python-brasil)
 
-	08 - Facebook.com/groups/python.brasil ( Br )
-	
-	09 - Meetup.com/pt-BR/topics/python ( En / Br )
-	
-	10 - Pythonbrasil.slack.com ( Br )
+[Python Any Where](https://www.pythonanywhere.com/forums/)
+
+[Bytes](http://bytes.com/topic/pythonv)
+
+[Python Brasil - Slack](http://pythonbrasil.slack.com/)
 
 --------------------------
 #### Livros / Documentações / Artigos <a name="Livros"></a>
@@ -321,38 +319,34 @@
 --------------------------
 #### Podcasts <a name="Pods"></a>
 
-	00 - Castalio.info/category/podcast.html ( Br )
+[Castálio](http://castalio.info/category/podcast.html)
 
-	01 - Talkpython.fm ( En )
+[Grok Podcast](http://www.grokpodcast.com/)
 
-	02 - Podcastinit.com ( En )
+[Podcast Init](https://www.podcastinit.com/)
 
-	03 - Python.madewithopinion.com ( En )
-	
-	04 - Grokpodcast.com ( Br )
+[Python Opinion](http://python.madewithopinion.com/)
+
+[Talk Python](https://talkpython.fm/)
 
 --------------------------
 #### Conferências <a name="Confs"></a>
 
-	00 - Pythonbrasil.org.br
+[Python Brasil](http://pythonbrasil.org.br/)
 
-	01 - Python.org/community/workshops
+[Python Official](https://www.python.org/community/workshops/)
 
-	02 - Rupy.com.br
+[Rupy](http://rupy.com.br/)
 
-	03 - Caipyra.python.org.br
+[Caipyra](http://caipyra.python.org.br/)
 
-	04 - Pymunich.com
-	
-	05 - Thedevelopersconference.com.br
-	
-	06 - Coletividad.org/events
-	
-	## Eventos para inclusão de mulheres
-	
-		00 - Brasil.pyladies.com
-		
-		01 - Djangogirls.org
+[Pycon Web](https://pymunich.com/)
+
+[Dev Conf](http://www.thedevelopersconference.com.br/tdc/2017/index.html)
+
+[Py Ladies Brasil](http://brasil.pyladies.com/)
+
+[Django Girls](http://djangogirls.org/)
 
 --------------------------
 #### Frameworks <a name="Frames"></a>
