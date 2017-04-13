@@ -199,29 +199,29 @@
 	
 	Opção com vários cursos grátis de python : Datascienceacademy.com.br
 
-[Python Básico Solyd](Youtube.com/playlist?list=PLp95aw034Wn_WtEmlepaDrw8FU8R5azcm)
+[Python Básico Solyd](https://Youtube.com/playlist?list=PLp95aw034Wn_WtEmlepaDrw8FU8R5azcm)
 
-[Python Ignorância Zero](Youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
+[Python Ignorância Zero](https://Youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
 
-[Python para Zumbis](Youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
+[Python para Zumbis](https://Youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
 
-[Python eXcript](Youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj)
+[Python eXcript](https://Youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj)
 
-[Python Mania de Código](Youtube.com/playlist?list=PLGSlfpoZqOm6e4FhqvGZOX5lPFhEXO3GY)
+[Python Mania de Código](https://Youtube.com/playlist?list=PLGSlfpoZqOm6e4FhqvGZOX5lPFhEXO3GY)
 
-[Python 3 Codigo Facilito](Youtube.com/playlist?list=PLpOqH6AE0tNiK7QN6AJo_3nVGQPc8nLdM)
+[Python 3 Codigo Facilito](https://Youtube.com/playlist?list=PLpOqH6AE0tNiK7QN6AJo_3nVGQPc8nLdM)
 
-[Grupo de Estudos Python](Youtube.com/playlist?list=PL6f2gQ2RXLosWiXDHM7vOr1MPdfxPAm_t)
+[Grupo de Estudos Python](https://Youtube.com/playlist?list=PL6f2gQ2RXLosWiXDHM7vOr1MPdfxPAm_t)
 
-[Python - Dd Tutoriais](Youtube.com/playlist?list=PLO_xIfla8f1wbz386WVuvQ5kZa9Pz8_80)
+[Python - Dd Tutoriais](https://Youtube.com/playlist?list=PLO_xIfla8f1wbz386WVuvQ5kZa9Pz8_80)
 
-[Python Tutorials - Corey Schafer](Youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+[Python Tutorials - Corey Schafer](https://Youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
-[Python - Abel Separovich](Youtube.com/playlist?list=PLc-O0bhHdRmgp-CxB_eMHHM9LjefTZBTB)
+[Python - Abel Separovich](https://Youtube.com/playlist?list=PLc-O0bhHdRmgp-CxB_eMHHM9LjefTZBTB)
 
-[Python 3 - Sent Dex](Youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+[Python 3 - Sent Dex](https://Youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 
-[Python Básico](Youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+[Python Básico](https://Youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 	
 --------------------------
 #### Comunidades <a name="Comunidades"></a>
