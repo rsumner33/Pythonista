@@ -120,7 +120,8 @@
 
 [Python For Beginners](http://www.pythonforbeginners.com/)
 
-	
+[Ralsina](http://ralsina.me/weblog/index.html)
+
 --------------------------
 #### Exemplos de código python <a name="Exemplos"></a>
 	
@@ -357,51 +358,137 @@
 	
 --------------------------	
 #### Tools <a name="Tools"></a>
-
-	00 - Virtualenv.pypa.io/en/stable
-
-	01 - Continuum.io/downloads
-
-	02 - Jupyter.org
-
-	03 - Sphinx-doc.org
-
-	04 - Cmder.net
-
-	05 - Docs.pytest.org/en/latest || Pyunit.sourceforge.net/pyunit.html
-
-	06 - Logilab.org/project/pylint || Pypi.python.org/pypi/pep8 || Flake8.pycqa.org/en/latest
-
-	07 - Repl.it || Pythonfiddle.com || Ideone.com || Notebooks.azure.com
-
-	08 - Heroku.com || Pythonanywhere.com || Openshift.com || Digitalocean.com
-
-	09 - Codeclimate.com || Codacy.com
-
-	10 - Pythontutor.com
 	
-	11 - Newrelic.com || Opbeat.com
-	
-	12 - Jenkins.io || Travis-ci.org ( Integração Continua )
-	
-	13 - Pt.wikipedia.org/wiki/Lista_de_distribuições_de_Linux
-	
-	14 - Analytics.google.com || Piwik.org
-	
-	15 - Wwwhere.io && Zapier.com/zapbook
-	
-	16 - Kaggle.com ( Data Science )
-	
-	17 - Sharelatex.com && Mendeley.com
-	
-	18 - Ghostbin.com || Pastebin.com
-	
-	19 - Urionlinejudge.com.br || Hackerrank.com
-	
-	20 - Pytools.codeplex.com
-	
-	21 - Mockflow.com
+	Terminal
 
+[Cmder](http://cmder.net/)
+
+[Any Term](http://anyterm.org/)
+	
+	' Ide's ' online
+
+[Repl It](https://repl.it/)
+
+[Ide One](http://ideone.com/)
+
+[Jupyter](http://jupyter.org/)
+
+[Not Book Azure](https://notebooks.azure.com/)
+
+[Python Fiddle](http://pythonfiddle.com/)
+
+[Python Tutor](http://pythontutor.com/)
+	
+	Documentação
+
+[Pandoc](http://pandoc.org/)
+
+[Sphinx](http://sphinx-doc.org/)
+
+[Dr Explain](http://www.drexplain.com/)
+	
+	Ambiente
+
+[Virtual Env](https://virtualenv.pypa.io/en/stable/)
+
+[Docker](https://www.docker.com/)
+
+[Vagrant](https://www.vagrantup.com/)
+	
+	Lista de apps
+	
+[Zapier](https://zapier.com/zapbook/)
+
+[Www Here](http://wwwhere.io/)
+	
+	Wire frames
+
+[Mock Flow](https://mockflow.com/)
+
+[Moq Ups](https://moqups.com/)
+
+[Wire Frame](https://wireframe.cc/)
+	
+	Notas online
+	
+[Paste Bin](https://pastebin.com/)
+
+[Ghost Bin](https://ghostbin.com/)
+	
+	Acadêmico
+	
+[Share Latex](http://sharelatex.com/)
+
+[Mendly](http://mendeley.com/)
+
+[Capes](http://www.periodicos.capes.gov.br/)
+
+[Schoolar](https://scholar.google.com.br/)
+	
+	Online judge
+	
+[Uri](https://www.urionlinejudge.com.br/)
+
+[Spoj](http://br.spoj.com/)
+
+[Hack Rank](https://www.hackerrank.com/)
+	
+	Alternativas ( Python.org/download/alternatives )
+	
+[Anaconda](https://www.continuum.io/downloads)
+
+[Epd Python](https://www.enthought.com/products/epd/)
+	
+	Analise de código
+	
+[Coda Cy](https://www.codacy.com/)
+
+[Code Climate](https://codeclimate.com/)
+	
+	Integração continua
+
+[Jenkins](http://jenkins.io/)
+
+[Travis Ci](https://travis-ci.org/)
+	
+	Teste de unidade ( Unitário )
+
+[Py Test](https://docs.pytest.org/en/latest/)
+
+[Py Unit](http://pyunit.sourceforge.net/pyunit.html)
+	
+	Debugger
+
+[Pdb](https://docs.python.org/2/library/pdb.html)
+	
+	Hospedagem
+	
+[Heroku](https://www.heroku.com/)
+
+[Digital Ocean](https://www.digitalocean.com/)
+
+[Open Shift](https://www.openshift.com/)
+
+[Python Any Here](https://www.pythonanywhere.com/)
+	
+	Monitoração
+	
+[New Relic](https://newrelic.com/)
+
+[Data Dog](https://www.datadoghq.com/)
+
+[Roll Bar](https://rollbar.com/)
+
+[Op Beat](https://opbeat.com/)
+	
+	Análise sintática
+
+[Flake 8](http://flake8.pycqa.org/en/latest/)
+
+[Pep 8](https://pypi.python.org/pypi/pep8)
+
+[Py Lint](http://logilab.org/project/pylint)
+	
 --------------------------
 #### Newsletter <a name="News"></a>
 
