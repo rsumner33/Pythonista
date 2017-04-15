@@ -165,7 +165,9 @@
 [Guido Van Rossum - Python Language](https://www.youtube.com/watch?v=YgtL4S7Hrwo)
 	
 [Iteração em Python : Do básico ao genial - Luciano Ramalho](https://www.youtube.com/watch?v=ULj7ejvuzI8&feature=youtu.be)
-	
+
+[Why you will fail to have a great career - Larry Smith](https://www.youtube.com/watch?v=iKHTawgyKWQ)
+
 [Básico de Django Rest Framework - Pk Pacheco](https://www.youtube.com/watch?v=im3bMuhfUj8)
 	
 [Desenvolvimento Web - Giovane Liberato](https://www.youtube.com/watch?v=yqviCcurVdc)
@@ -193,7 +195,9 @@
 [Estratégias de Branches - Code Rockr](https://www.youtube.com/watch?v=0JDFcT3uCSs)
 	
 [Dave Halter – Python is Weird](https://www.youtube.com/watch?v=6NVUbO7pFtA)
-	
+
+[King Host 2017 - Seo Para Dessenvolvedores](https://www.youtube.com/watch?v=qdgQ8BFws0A&index=9&list=PLnNeM4deC9Tm6nOp5v592Mn_MZaizyMyw)
+
 --------------------------
 #### Cursos de python no youtube <a name="Cursos"></a>
 	
@@ -370,6 +374,8 @@
 [Repl It](https://repl.it/)
 
 [Ide One](http://ideone.com/)
+
+[Mode Analytics](https://modeanalytics.com/)
 
 [Jupyter](http://jupyter.org/)
 
