@@ -346,7 +346,7 @@
 --------------------------
 #### Bancos de dados <a name="Bancos"></a>
 	
-	Tools relacionadas : Redis, Spark, Apache, Nginx, Elastic, Db Designer
+	Tools relacionadas : Redis, Spark, Apache, Caddy Server, Nginx, Elastic, Db Designer, Cassandra, Couch Base
 	
 [Mongo Db](http://mongodb.com/)
 
