@@ -43,7 +43,9 @@
 [Hack News - Rank](https://news.ycombinator.com/item?id=3746692)
 	
 [Octoverse](https://octoverse.github.com/)
-	
+
+[Map To Learn Programmin](https://medium.freecodecamp.com/this-picture-will-change-the-way-you-learn-to-code-557ac1e109bd)
+
 --------------------------	
 ####  Certificação <a name="Certificado"></a>
 
@@ -278,7 +280,9 @@
 [Intro To Advanced Python](https://gist.github.com/blepfo/efe59d762d8fffb0bf15af9962b1ea4c)
 
 [Wiki Books Python](https://pt.wikibooks.org/wiki/Python)
-	
+
+[Learn Code Hard Way Python](https://learncodethehardway.org/python/)
+
 	Boas opções para comprar livros : Casadocodigo.com.br, Novatec.com.br...
 	
 --------------------------
@@ -462,7 +466,9 @@
 [Py Test](https://docs.pytest.org/en/latest/)
 
 [Py Unit](http://pyunit.sourceforge.net/pyunit.html)
-	
+
+[Cucumber](https://cucumber.io/) // Outras linguagens, não de unidade
+
 	Debugger
 
 [Pdb](https://docs.python.org/2/library/pdb.html)
