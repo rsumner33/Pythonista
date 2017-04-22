@@ -124,6 +124,8 @@
 
 [Ralsina](http://ralsina.me/weblog/index.html)
 
+[Abra Seu Código](http://blog.abraseucodigo.com.br/)
+
 --------------------------
 #### Exemplos de código python <a name="Exemplos"></a>
 	
@@ -501,6 +503,12 @@
 
 [Py Lint](http://logilab.org/project/pylint)
 	
+	Mapa mental
+
+[Coggle](https://coggle.it/)
+
+[Mind Meister](https://www.mindmeister.com/pt/)
+
 --------------------------
 #### Newsletter <a name="News"></a>
 
