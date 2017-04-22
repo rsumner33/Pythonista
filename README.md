@@ -202,6 +202,10 @@
 
 [King Host 2017 - Seo Para Dessenvolvedores](https://www.youtube.com/watch?v=qdgQ8BFws0A&index=9&list=PLnNeM4deC9Tm6nOp5v592Mn_MZaizyMyw)
 
+[Api's de Watson - Processamento de Linguagem Natural 1](https://www.youtube.com/watch?v=sdUNj8rRYTQ)
+
+[Wat - `False == False in False`- Python](https://www.youtube.com/watch?v=mRPU3l54Z7I)
+
 --------------------------
 #### Cursos de python no youtube <a name="Cursos"></a>
 	
