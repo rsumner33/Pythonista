@@ -81,6 +81,8 @@
 
 [Jobs Python](https://www.pythonjobs.com/)
 
+[Codility](https://codility.com/)
+
 --------------------------
 #### Vertentes <a name="Vertentes"></a>
 
@@ -444,6 +446,8 @@
 	Online judge
 	
 [Uri](https://www.urionlinejudge.com.br/)
+
+[Code Fights](https://codefights.com/)
 
 [Spoj](http://br.spoj.com/)
 
