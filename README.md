@@ -465,8 +465,8 @@
 
 [Code Climate](https://codeclimate.com/)
 	
-	Integração continua
-
+	Integração continua : Sonar Qube ...
+	
 [Jenkins](http://jenkins.io/)
 
 [Travis Ci](https://travis-ci.org/)
