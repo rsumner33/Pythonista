@@ -210,6 +210,8 @@
 
 [Dan Maas – Massively Multiplayer Online Game Servers in Twisted Python](https://www.youtube.com/watch?v=KW3mzaM3UcU)
 
+[Mock Away ! Uma análise de a escrita de testes e mocks para frameworks conhecidos? - Andre Macdowell](https://www.youtube.com/watch?v=Htaz5Hpv04o)
+
 --------------------------
 #### Cursos de python no youtube <a name="Cursos"></a>
 	
