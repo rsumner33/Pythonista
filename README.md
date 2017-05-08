@@ -34,7 +34,9 @@
 #### Motivo para aprender python <a name="Motivação"></a>
 
 [Destroy All Software](https://www.destroyallsoftware.com/talks/wat)	
-	
+
+[Why Learn Python](http://www.bestprogramminglanguagefor.me/why-learn-python)
+
 --------------------------	
 #### Visão geral da linguagem <a name="Visão"></a>
 
