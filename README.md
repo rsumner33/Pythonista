@@ -214,6 +214,8 @@
 
 [Mock Away ! Uma análise de a escrita de testes e mocks para frameworks conhecidos? - Andre Macdowell](https://www.youtube.com/watch?v=Htaz5Hpv04o)
 
+[Big Data para Desenvolvedores - Fabiane Nardon](https://www.youtube.com/watch?v=X4Cbb4XNre4)
+
 --------------------------
 #### Cursos de python no youtube <a name="Cursos"></a>
 	
