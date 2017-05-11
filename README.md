@@ -223,6 +223,8 @@
 
 [Python Básico Solyd](https://Youtube.com/playlist?list=PLp95aw034Wn_WtEmlepaDrw8FU8R5azcm)
 
+[Python - Francisco Calaça](https://www.youtube.com/playlist?list=PLVj7t-1tQQnGMIDg5_zpFaDmruEMgbsd1)
+
 [Python Ignorância Zero](https://Youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
 
 [Python para Zumbis](https://Youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
