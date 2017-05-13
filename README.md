@@ -415,7 +415,7 @@
 
 [Dr Explain](http://www.drexplain.com/)
 	
-	Ambiente
+	Ambiente ( Rancher.com )
 
 [Virtual Env](https://virtualenv.pypa.io/en/stable/)
 
@@ -478,6 +478,8 @@
 	Integração continua : Sonar Qube ...
 	
 [Jenkins](http://jenkins.io/)
+
+[Go Cd](https://www.gocd.io/)
 
 [Travis Ci](https://travis-ci.org/)
 	
