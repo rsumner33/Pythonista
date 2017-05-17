@@ -231,6 +231,8 @@
 
 [Python para Zumbis](https://Youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
 
+[Desenvolvimento Web com Python e Django](https://www.youtube.com/watch?v=dQg0uwCU158)
+
 [Python eXcript](https://Youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj)
 
 [Python Mania de Código](https://Youtube.com/playlist?list=PLGSlfpoZqOm6e4FhqvGZOX5lPFhEXO3GY)
