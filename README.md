@@ -216,6 +216,8 @@
 
 [Big Data para Desenvolvedores - Fabiane Nardon](https://www.youtube.com/watch?v=X4Cbb4XNre4)
 
+[Web Services na prática - Conceitos Iniciais](https://www.youtube.com/watch?v=xEsj-CBwyh4)
+
 --------------------------
 #### Cursos de python no youtube <a name="Cursos"></a>
 	
