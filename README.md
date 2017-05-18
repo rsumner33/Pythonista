@@ -37,6 +37,8 @@
 
 [Why Learn Python](http://www.bestprogramminglanguagefor.me/why-learn-python)
 
+[Overflow Trends](https://insights.stackoverflow.com/trends?utm_source=so-owned&utm_medium=blog&utm_campaign=trends&utm_content=blog-link&tags=python%2Cruby%2Cc%2Cc%2B%2B%2Cjava%2Cjavascript)
+
 --------------------------	
 #### Visão geral da linguagem <a name="Visão"></a>
 
