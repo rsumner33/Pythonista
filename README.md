@@ -69,6 +69,8 @@
 	
 [Info Jobs](http://www.infojobs.com.br/)
 
+[Recruta Simples](https://www.recrutasimples.com.br/vagas)
+
 [Workana](https://www.workana.com/)
 
 [Loading Jobs](https://landing.jobs/)
