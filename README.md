@@ -222,6 +222,8 @@
 
 [Web Services na prática - Conceitos Iniciais](https://www.youtube.com/watch?v=xEsj-CBwyh4)
 
+[Machine Learning : Como fazer uma máquina aprender usando Python](https://www.youtube.com/watch?v=RlAQN0KcxRQ)
+
 --------------------------
 #### Cursos de python no youtube <a name="Cursos"></a>
 	
