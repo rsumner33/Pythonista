@@ -224,6 +224,8 @@
 
 [Machine Learning : Como fazer uma máquina aprender usando Python](https://www.youtube.com/watch?v=RlAQN0KcxRQ)
 
+[Programação funcional no desenvolvimento de aplicações](https://www.youtube.com/watch?v=woYESPuwmNo&t=905s)
+
 --------------------------
 #### Cursos de python no youtube <a name="Cursos"></a>
 	
