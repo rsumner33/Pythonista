@@ -134,6 +134,8 @@
 
 [Abra Seu Código](http://blog.abraseucodigo.com.br/)
 
+[Coding Horror](https://blog.codinghorror.com/)
+
 --------------------------
 #### Exemplos de código python <a name="Exemplos"></a>
 	
