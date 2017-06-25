@@ -27,7 +27,7 @@
 
 <a href="#Tools">Tools</a>	|	<a href="#News">Newsletter</a>
 
-<a href="#Datas">Datasets</a>
+<a href="#Datas">Datasets</a> <a href="#His">História</a>
 
 --------------------------
 
@@ -39,7 +39,16 @@
 
 [Overflow Trends](https://insights.stackoverflow.com/trends?utm_source=so-owned&utm_medium=blog&utm_campaign=trends&utm_content=blog-link&tags=python%2Cruby%2Cc%2Cc%2B%2B%2Cjava%2Cjavascript)
 
---------------------------	
+--------------------------
+
+#### História <a name="His"></a>
+
+[Python Programming Language](http://www.wikiwand.com/en/Python_(programming_language)) ( En )
+
+[Linguagem de Programação Python](https://pt.wikipedia.org/wiki/Python) ( Pt - Br )
+
+--------------------------
+
 #### Visão geral da linguagem <a name="Visão"></a>
 
 [Stack Over Flow - Insights](http://stackoverflow.com/insights/survey/2017)
@@ -69,9 +78,13 @@
 	
 [Info Jobs](http://www.infojobs.com.br/)
 
+[We Work Remotely](https://weworkremotely.com/)
+
 [Recruta Simples](https://www.recrutasimples.com.br/vagas)
 
 [Workana](https://www.workana.com/)
+
+[Ap Info](http://www.apinfo.com/apinfo/)
 
 [Loading Jobs](https://landing.jobs/)
 
@@ -88,6 +101,8 @@
 [Jobs Python](https://www.pythonjobs.com/)
 
 [Codility](https://codility.com/)
+
+[Van Hack](http://www.vanhack.com/)
 
 --------------------------
 #### Vertentes <a name="Vertentes"></a>
@@ -260,7 +275,9 @@
 [Python 3 - Sent Dex](https://Youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 
 [Python Básico](https://Youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
-	
+
+[The Complete Python 3 Course](https://www.udemy.com/learn-python-3-from-beginner-to-advanced/learn/v4/overview) ( Udemy )
+
 --------------------------
 #### Comunidades <a name="Comunidades"></a>
 
@@ -423,6 +440,8 @@
 	
 	Documentação
 
+[Over Api](http://overapi.com/python)
+
 [Pandoc](http://pandoc.org/)
 
 [Sphinx](http://sphinx-doc.org/)
@@ -456,10 +475,14 @@
 [Paste Bin](https://pastebin.com/)
 
 [Ghost Bin](https://ghostbin.com/)
-	
+
+[Code Share](https://codeshare.io/)
+
 	Acadêmico
 	
 [Share Latex](http://sharelatex.com/)
+
+[Scielo](http://www.scielo.org/php/index.php)
 
 [Mendly](http://mendeley.com/)
 
@@ -483,7 +506,7 @@
 
 [Epd Python](https://www.enthought.com/products/epd/)
 	
-	Analise de código
+	Analise de código online
 	
 [Coda Cy](https://www.codacy.com/)
 
