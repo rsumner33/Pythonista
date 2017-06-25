@@ -1,7 +1,5 @@
 
-# Desenvolvedores Python
-
-[<h6>Github.com/python</h6>](https://github.com/python "Python")
+### [Desenvolvedores Python](https://github.com/python)
 
 ![alt text](https://www.codeschool.com/blog/2016/01/27/why-python/0127-blog-beginnersPython-v2.png "Code School - Why Python")
 
@@ -27,7 +25,7 @@
 
 <a href="#Tools">Tools</a>	|	<a href="#News">Newsletter</a>
 
-<a href="#Datas">Datasets</a> <a href="#His">História</a>
+<a href="#Datas">Datasets</a>	|	<a href="#His">História</a>
 
 --------------------------
 
