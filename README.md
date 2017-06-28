@@ -475,9 +475,15 @@
 [Ghost Bin](https://ghostbin.com/)
 
 [Code Share](https://codeshare.io/)
+	
+	Desenpenho Pessoal
+
+[Tomato Timer](https://tomato-timer.com/) ( Pomodoro )
 
 	Acadêmico
-	
+
+[Sci-Hub](https://sci-hub.io/)
+
 [Share Latex](http://sharelatex.com/)
 
 [Scielo](http://www.scielo.org/php/index.php)
