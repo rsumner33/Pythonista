@@ -1,24 +1,27 @@
 
-### [Desenvolvedores Python](https://github.com/python)
+#### [Python](https://github.com/python)
 
-![alt text](https://www.codeschool.com/blog/2016/01/27/why-python/0127-blog-beginnersPython-v2.png "Code School - Why Python")
+
+![alt text](https://www.codeschool.com/blog/2016/01/27/why-python/0127-blog-beginnersPython-v2.png "Awesome Python")
 
 
 ## Menu
 
 * <a href="#Motivação">Motivação</a>
 
+* <a href="#História">História</a>
+
 * <a href="#Visão">Visão Geral</a>
 
-* <a href="#Certificado">Certificado</a>
+* <a href="#Certificação">Certificação</a>
 
-* <a href="#Voluntario">Voluntário</a>
+* <a href="#Voluntário">Voluntário ( a )</a>
 
 * <a href="#Empregos">Empregos</a>
 
 * <a href="#Vertentes">Vertentes</a>
 
-* <a href="#Ides">Ide's</a>
+* <a href="#Ides">Ides</a>
 
 * <a href="#Blogs">Blogs</a>
 
@@ -30,7 +33,7 @@
 
 * <a href="#Slides">Slides</a>
 
-* <a href="#Talks">Apresentações</a>
+* <a href="#Apresentações">Apresentações</a>
 
 * <a href="#Cursos">Cursos</a>
 
@@ -38,9 +41,9 @@
 
 * <a href="#Livros">Livros</a>
 
-* <a href="#Pods">Podcasts</a>
+* <a href="#Podcasts">Podcasts</a>
 
-* <a href="#Confs">Conferências</a>
+* <a href="#Conferências">Conferências</a>
 
 * <a href="#Frames">Frameworks</a>
 
@@ -52,11 +55,10 @@
 
 * <a href="#Datas">Datasets</a>
 
-* <a href="#His">História</a>
 
 --------------------------
 
-#### Motivo para aprender python <a name="Motivação"></a>
+#### Motivação <a name="Motivação"></a>
 
 [Destroy All Software](https://www.destroyallsoftware.com/talks/wat)	
 
@@ -66,38 +68,43 @@
 
 --------------------------
 
-#### História <a name="His"></a>
+#### História <a name="História"></a>
 
-[Python Programming Language](http://www.wikiwand.com/en/Python_(programming_language)) ( En )
+[Python Language](http://www.wikiwand.com/en/Python_(programming_language)) ( En )
 
-[Linguagem de Programação Python](https://pt.wikipedia.org/wiki/Python) ( Pt - Br )
+[Linguagem Python](https://pt.wikipedia.org/wiki/Python) ( Br )
 
 --------------------------
 
-#### Visão geral da linguagem <a name="Visão"></a>
+#### Visão Geral <a name="Visão"></a>
 
-[Stack Over Flow - Insights](http://stackoverflow.com/insights/survey/2017)
+[Stack Over Flow Insights](http://stackoverflow.com/insights/survey/2017)
 
-[Hack News - Rank](https://news.ycombinator.com/item?id=3746692)
+[Hack News Rank](https://news.ycombinator.com/item?id=3746692)
 	
 [Octoverse](https://octoverse.github.com/)
 
-[Map To Learn Programmin](https://medium.freecodecamp.com/this-picture-will-change-the-way-you-learn-to-code-557ac1e109bd)
+[Map To Learn Programming](https://medium.freecodecamp.com/this-picture-will-change-the-way-you-learn-to-code-557ac1e109bd)
 
 --------------------------	
-####  Certificação <a name="Certificado"></a>
 
-[Python - iMasters](http://certificacao.imasters.com.br/) ( Em Breve )
+####  Certificação <a name="Certificação"></a>
+
+[Python iMasters](http://certificacao.imasters.com.br/) ( Breve )
 
 --------------------------
-#### Projetos Voluntários <a name="Voluntario"></a>
+
+#### Projetos Voluntários <a name="Voluntário"></a>
 
 [Open Hatch](https://openhatch.org/)
 	
 --------------------------	
-#### Vagas de empregos <a name="Empregos"></a>
+
+#### Empregos <a name="Empregos"></a>
+
 	
 	Programador Python fala sobre o mercado de trabalho : Youtube.com/watch?v=jvYQXvMBx9k
+
 
 [Remote Ok](http://remoteok.io/)
 	
@@ -130,6 +137,7 @@
 [Van Hack](http://www.vanhack.com/)
 
 --------------------------
+
 #### Vertentes <a name="Vertentes"></a>
 
 [Python Awesome Pentest](https://github.com/dloss/python-pentest-tools)
@@ -137,7 +145,10 @@
 [Python Awesome Scientific](https://github.com/AeroPython/awesome-scientific-computing)
 	
 --------------------------	
+
 #### Ide's <a name="Ides"></a>
+
+[Visual Studio Code](https://code.visualstudio.com/)
 
 [Spyder](http://pythonhosted.org/spyder/)
 
@@ -153,8 +164,9 @@
 	
 [Anaconda Ide](http://damnwidget.github.io/anaconda/)
 	
---------------------------	
-#### Blogs legais <a name="Blogs"></a>
+--------------------------
+
+#### Blogs <a name="Blogs"></a>
 
 [Python Tips](https://pythontips.com/)
 
@@ -170,41 +182,76 @@
 
 [Python For Beginners](http://www.pythonforbeginners.com/)
 
-[Ralsina](http://ralsina.me/weblog/index.html)
-
 [Abra Seu Código](http://blog.abraseucodigo.com.br/)
 
 [Coding Horror](https://blog.codinghorror.com/)
 
 --------------------------
-#### Exemplos de código python <a name="Exemplos"></a>
-	
-[Code Review](http://codereview.stackexchange.com/questions/tagged/python)
+
+#### Exemplos <a name="Exemplos"></a>
 
 [Programiz](https://www.programiz.com/python-programming/examples)
 
 [Py Motw](https://pymotw.com/3/)
 	
 --------------------------
+
 #### Libs <a name="Libs"></a>
 
-	Mais importantes : Ericstk.files.wordpress.com/2014/09/pymap.png
-	
+
+	Mapa : Ericstk.files.wordpress.com/2014/09/pymap.png
+
+
+[Py Pi Rank](http://pypi-ranking.info/alltime)
+
+[Python Libraries](https://learn-anything.xyz/programming/programming-languages/python/python-libraries)
+
 [Py Pi](https://pypi.python.org/pypi)
 	
 --------------------------	
-#### Suporte ao inglês	<a name="Inglês"></a>
+
+#### Inglês	<a name="Inglês"></a>
+	
+	Cursos :
+	
+[Curso De Inglês](http://www.cursodeinglesgratis.org/)
 
 [Duolingo](https://pt.duolingo.com/)
 
+[Mem Rise](http://www.memrise.com/home/)
+
+[Lingua Leo](https://lingualeo.com/pt)
+
 [Busuu](http://busuu.com/)
 
+	Gramática :
+	
 [Grammar](https://www.grammarly.com/)
 
+[Bab La](http://pt.bab.la/)
+
+[Linguee](http://www.linguee.com.br/portugues-ingles)
+
+	Tradutores :
+	
 [Yandex](http://translate.yandex.com/)
 
-	
+[Google Translate](https://translate.google.com.br/?hl=pt-BR)
+
+[Lexi Cool](http://www.lexicool.com/translate.asp)
+
+	Prática :
+
+[Speaky](https://www.speaky.com/) ( Web )
+
+[Chat To Learn English](https://play.google.com/store/apps/details?id=vn.magik.englishpartner&hl=pt_BR) ( Android )
+
+[Aprenda Inglês Com Aco](https://play.google.com/store/apps/details?id=com.acobot.en) ( Android )
+
+[You Now](https://www.younow.com/) ( Web )
+
 --------------------------	
+
 #### Slides <a name="Slides"></a>
 
 [Speaker Deck](https://speakerdeck.com/)
@@ -214,64 +261,54 @@
 [Slides](https://slides.com/)
 	
 --------------------------	
-#### Apresentações <a name="Talks"></a>
+
+#### Apresentações <a name="Apresentações"></a>
 
 [Guido Van Rossum - Python Language](https://www.youtube.com/watch?v=YgtL4S7Hrwo)
 	
 [Iteração em Python : Do básico ao genial - Luciano Ramalho](https://www.youtube.com/watch?v=ULj7ejvuzI8&feature=youtu.be)
 
-[Why you will fail to have a great career - Larry Smith](https://www.youtube.com/watch?v=iKHTawgyKWQ)
-
 [Básico de Django Rest Framework - Pk Pacheco](https://www.youtube.com/watch?v=im3bMuhfUj8)
 	
 [Desenvolvimento Web - Giovane Liberato](https://www.youtube.com/watch?v=yqviCcurVdc)
 	
-[Jake Vanderplas - Statistics for Hackers](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
-	
 [Python & Flask - Bruno Rocha](https://www.youtube.com/watch?v=pfCPxjDpGco)
 	
-[Desenvolvimento Web com Python e Bottle - Marcos Castro](https://www.youtube.com/watch?v=j5e85tsSfoc)
+[Desenvolvimento Web com Python & Bottle - Marcos Castro](https://www.youtube.com/watch?v=j5e85tsSfoc)
 	
-[Você ainda não aprendeu Python - Rafael Henrique](https://www.youtube.com/watch?v=YDgR5unzty8&t=1648s)
+[Você ainda não aprendeu Python - Rafael Henrique](https://www.youtube.com/watch?v=YDgR5unzty8&t)
 
 [Poo com Python - Júlia Rizza](https://www.youtube.com/watch?v=t-w1dEBc_o4)
 	
-[Python Aprenda na Prática](https://www.youtube.com/watch?v=NFObSN67qM8)
+[Python - Aprenda na prática](https://www.youtube.com/watch?v=NFObSN67qM8)
 	
 [Bruno Rocha - Carreira de Programador e Mercado de Trabalho](https://www.youtube.com/watch?v=Q8KyS8ikQMs)
 	
-[Qualidade de Software - Wellington Durães](https://www.youtube.com/watch?v=n8sAGdxmsaQ)
-	
-[Testes de Carga com Locust - Stefan Teixeira](https://www.youtube.com/watch?v=riy0z8ltFeY)
+[Testes de carga com Locust - Stefan Teixeira](https://www.youtube.com/watch?v=riy0z8ltFeY)
 
-[Learning Analytics : Utilizando Data Science para melhorar a educação](https://www.youtube.com/watch?v=ugcu856_oZk)
-	
 [Estratégias de Branches - Code Rockr](https://www.youtube.com/watch?v=0JDFcT3uCSs)
 	
-[Dave Halter – Python is Weird](https://www.youtube.com/watch?v=6NVUbO7pFtA)
+[King Host 2017 - Seo para dessenvolvedores](https://www.youtube.com/watch?v=qdgQ8BFws0A&index=9&list=PLnNeM4deC9Tm6nOp5v592Mn_MZaizyMyw)
 
-[King Host 2017 - Seo Para Dessenvolvedores](https://www.youtube.com/watch?v=qdgQ8BFws0A&index=9&list=PLnNeM4deC9Tm6nOp5v592Mn_MZaizyMyw)
+[Apis de Watson - Processamento de linguagem natural](https://www.youtube.com/watch?v=sdUNj8rRYTQ)
 
-[Api's de Watson - Processamento de Linguagem Natural 1](https://www.youtube.com/watch?v=sdUNj8rRYTQ)
+[Dan Maas – Massively multiplayer online game servers in Twisted Python](https://www.youtube.com/watch?v=KW3mzaM3UcU)
 
-[Wat - `False == False in False`- Python](https://www.youtube.com/watch?v=mRPU3l54Z7I)
+[Mock Away - Uma análise da escrita de testes e mocks para frameworks conhecidos ? - Andre Macdowell](https://www.youtube.com/watch?v=Htaz5Hpv04o)
 
-[Dan Maas – Massively Multiplayer Online Game Servers in Twisted Python](https://www.youtube.com/watch?v=KW3mzaM3UcU)
-
-[Mock Away ! Uma análise de a escrita de testes e mocks para frameworks conhecidos? - Andre Macdowell](https://www.youtube.com/watch?v=Htaz5Hpv04o)
-
-[Big Data para Desenvolvedores - Fabiane Nardon](https://www.youtube.com/watch?v=X4Cbb4XNre4)
-
-[Web Services na prática - Conceitos Iniciais](https://www.youtube.com/watch?v=xEsj-CBwyh4)
+[Big Data para desenvolvedores - Fabiane Nardon](https://www.youtube.com/watch?v=X4Cbb4XNre4)
 
 [Machine Learning : Como fazer uma máquina aprender usando Python](https://www.youtube.com/watch?v=RlAQN0KcxRQ)
 
-[Programação funcional no desenvolvimento de aplicações](https://www.youtube.com/watch?v=woYESPuwmNo&t=905s)
+[Programação funcional no desenvolvimento de aplicações](https://www.youtube.com/watch?v=woYESPuwmNo)
 
 --------------------------
-#### Cursos de python no youtube <a name="Cursos"></a>
+
+#### Cursos <a name="Cursos"></a>
 	
-	Opção com vários cursos grátis de python : Datascienceacademy.com.br
+	
+	Vários cursos grátis de Python : Datascienceacademy.com.br
+
 
 [Python Básico Solyd](https://Youtube.com/playlist?list=PLp95aw034Wn_WtEmlepaDrw8FU8R5azcm)
 
@@ -279,31 +316,30 @@
 
 [Python Ignorância Zero](https://Youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
 
-[Python para Zumbis](https://Youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
+[Python Para Zumbis](https://Youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
 
-[Desenvolvimento Web com Python e Django](https://www.youtube.com/watch?v=dQg0uwCU158)
+[Desenvolvimento Web Com Python & Django](https://www.youtube.com/watch?v=dQg0uwCU158)
 
 [Python eXcript](https://Youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj)
 
-[Python Mania de Código](https://Youtube.com/playlist?list=PLGSlfpoZqOm6e4FhqvGZOX5lPFhEXO3GY)
+[Python 3 Codigo Facilito](https://Youtube.com/playlist?list=PLpOqH6AE0tNiK7QN6AJo_3nVGQPc8nLdM) ( Es )
 
-[Python 3 Codigo Facilito](https://Youtube.com/playlist?list=PLpOqH6AE0tNiK7QN6AJo_3nVGQPc8nLdM)
-
-[Grupo de Estudos Python](https://Youtube.com/playlist?list=PL6f2gQ2RXLosWiXDHM7vOr1MPdfxPAm_t)
+[Grupo De Estudos Python](https://Youtube.com/playlist?list=PL6f2gQ2RXLosWiXDHM7vOr1MPdfxPAm_t)
 
 [Python - Dd Tutoriais](https://Youtube.com/playlist?list=PLO_xIfla8f1wbz386WVuvQ5kZa9Pz8_80)
 
-[Python Tutorials - Corey Schafer](https://Youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+[Python Tutorials - Corey Schafer](https://Youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) ( En )
 
 [Python - Abel Separovich](https://Youtube.com/playlist?list=PLc-O0bhHdRmgp-CxB_eMHHM9LjefTZBTB)
 
-[Python 3 - Sent Dex](https://Youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+[Python 3 - Sent Dex](https://Youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M) ( En )
 
 [Python Básico](https://Youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 
-[The Complete Python 3 Course](https://www.udemy.com/learn-python-3-from-beginner-to-advanced/learn/v4/overview) ( Udemy )
+[The Complete Python 3 Course](https://www.udemy.com/learn-python-3-from-beginner-to-advanced/learn/v4/overview) ( Udemy / En )
 
 --------------------------
+
 #### Comunidades <a name="Comunidades"></a>
 
 [Stack Over Flow](http://pt.stackoverflow.com/questions/tagged/python)
@@ -326,54 +362,59 @@
 
 [Python Brasil - Slack](http://pythonbrasil.slack.com/)
 
+[Dev Rant](https://www.devrant.io/feed)
+
+[Coder Wall](https://coderwall.com/t/python/popular)
+
 --------------------------
-#### Livros / Documentações <a name="Livros"></a>
+
+#### Livros & Documentações <a name="Livros"></a>
 	
-	Documentações online : Zealdocs.org, Devdocs.io ...
+	
+	Documentações online : Zealdocs.org, Devdocs.io & Overapi.com
+	
+	Comprar livros : Casadocodigo.com.br & Novatec.com.br
+	
 
-[Python Books](http://pythonbooks.revolunet.com/)
+[Pense Python](https://github.com/PenseAllen/PensePython2e) - [Alternativa](https://drive.google.com/file/d/0B_XYij1eGClZaUNCdE9TRGVpbGM/view)
 
-[Pense Python](https://github.com/PenseAllen/PensePython2e) [ - Alternativa](Drive.google.com/file/d/0B_XYij1eGClZaUNCdE9TRGVpbGM/view)
-
-[Python Turing](http://turing.com.br/pydoc/2.7/tutorial/)
+[Django Girls](https://tutorial.djangogirls.org/pt/)
 
 [Python Fácil](http://felipegalvao.com.br/static/ebooks/Ebook_Python_basico.zip)
+
+[Python Turing](http://turing.com.br/pydoc/2.7/tutorial/)
 
 [Python Swaroopch](https://python.swaroopch.com/)
 
 [Python Para Desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf)
 
-[Online Programming Books](http://www.onlineprogrammingbooks.com/python/)
-
 [Documentation Python 3](https://docs.python.org/3/)
 
-[Curso de Verão - Python](https://gabrielacavalcante.gitbooks.io/python/content/)
-
-[Humble Bundle Python](https://www.humblebundle.com/books/python-book-bundle)
+[Curso de Verão](https://gabrielacavalcante.gitbooks.io/python/content/)
 
 [Intro To Advanced Python](https://gist.github.com/blepfo/efe59d762d8fffb0bf15af9962b1ea4c)
 
-[Wiki Books Python](https://pt.wikibooks.org/wiki/Python)
+[Wiki Books](https://pt.wikibooks.org/wiki/Python)
 
-[Learn Code Hard Way Python](https://learncodethehardway.org/python/)
-
-	Boas opções para comprar livros : Casadocodigo.com.br, Novatec.com.br...
+[Learn Code Hard Way](https://learnpythonthehardway.org/book/)
 	
 --------------------------
-#### Podcasts <a name="Pods"></a>
 
-[Castálio](http://castalio.info/category/podcast.html)
+#### Podcasts <a name="Podcasts"></a>
 
-[Grok Podcast](http://www.grokpodcast.com/)
+[Hipsters](http://hipsters.tech/)
 
-[Podcast Init](https://www.podcastinit.com/)
+[Grok](http://www.grokpodcast.com/)
 
-[Python Opinion](http://python.madewithopinion.com/)
+[Init](https://www.podcastinit.com/)
+
+[Opinion](http://python.madewithopinion.com/)
 
 [Talk Python](https://talkpython.fm/)
 
 --------------------------
-#### Conferências <a name="Confs"></a>
+
+#### Conferências <a name="Conferências"></a>
 
 [Python Brasil](http://pythonbrasil.org.br/)
 
