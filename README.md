@@ -3,29 +3,56 @@
 
 ![alt text](https://www.codeschool.com/blog/2016/01/27/why-python/0127-blog-beginnersPython-v2.png "Code School - Why Python")
 
-<a href="#Motivação">Motivação</a>	|	<a href="#Visão">Visão Geral</a>
 
-<a href="#Certificado">Certificado</a>		|	<a href="#Voluntario">Voluntário</a>
+## Menu
 
-<a href="#Empregos">Empregos</a>	 |	<a href="#Vertentes">Vertentes</a>
+* <a href="#Motivação">Motivação</a>
 
-<a href="#Ides">Ide's</a>	|	<a href="#Blogs">Blogs</a>
+* <a href="#Visão">Visão Geral</a>
 
-<a href="#Exemplos">Exemplos</a>	|	<a href="#Libs">Libs</a>
+* <a href="#Certificado">Certificado</a>
 
-<a href="#Inglês">Inglês</a>	|	<a href="#Slides">Slides</a>
+* <a href="#Voluntario">Voluntário</a>
 
-<a href="#Talks">Apresentações</a>	|	<a href="#Cursos">Cursos</a>
+* <a href="#Empregos">Empregos</a>
 
-<a href="#Comunidades">Comunidades</a>		|	<a href="#Livros">Livros</a>
+* <a href="#Vertentes">Vertentes</a>
 
-<a href="#Pods">Podcasts</a>	|	<a href="#Confs">Conferências</a>
+* <a href="#Ides">Ide's</a>
 
-<a href="#Frames">Frameworks</a>	|	<a href="#Bancos">Bancos de Dados</a>
+* <a href="#Blogs">Blogs</a>
 
-<a href="#Tools">Tools</a>	|	<a href="#News">Newsletter</a>
+* <a href="#Exemplos">Exemplos</a>
 
-<a href="#Datas">Datasets</a>	|	<a href="#His">História</a>
+* <a href="#Libs">Libs</a>
+
+* <a href="#Inglês">Inglês</a>
+
+* <a href="#Slides">Slides</a>
+
+* <a href="#Talks">Apresentações</a>
+
+* <a href="#Cursos">Cursos</a>
+
+* <a href="#Comunidades">Comunidades</a>
+
+* <a href="#Livros">Livros</a>
+
+* <a href="#Pods">Podcasts</a>
+
+* <a href="#Confs">Conferências</a>
+
+* <a href="#Frames">Frameworks</a>
+
+* <a href="#Bancos">Bancos de Dados</a>
+
+* <a href="#Tools">Tools</a>
+
+* <a href="#News">Newsletter</a>
+
+* <a href="#Datas">Datasets</a>
+
+* <a href="#His">História</a>
 
 --------------------------
 
