@@ -45,9 +45,9 @@
 
 * <a href="#Conferências">Conferências</a>
 
-* <a href="#Frames">Frameworks</a>
+* <a href="#Frameworks">Frameworks</a>
 
-* <a href="#Bancos">Bancos de Dados</a>
+* <a href="#Bancos">Orm & Bancos</a>
 
 * <a href="#Tools">Tools</a>
 
@@ -433,88 +433,62 @@
 [Django Girls](http://djangogirls.org/)
 
 --------------------------
-#### Frameworks <a name="Frames"></a>
+
+#### Frameworks <a name="Frameworks"></a>
 	
-	Gui
-	
-[Kivy](http://kivy.org/)
+[Gui](https://wiki.python.org/moin/GuiProgramming)
 
-[Py Qt](http://pythonqt.sourceforge.net/)
-
-[Py Side](http://wiki.qt.io/PySide)
-
-[Tkinter](https://docs.python.org/2/library/tkinter.html)
-	
-	Web
-[Django](https://www.djangoproject.com/)
-
-[Flask](http://flask.pocoo.org/)
-
-[Web 2 Py](http://web2py.com/)
-
-[Bottle Py](http://bottlepy.org/docs/dev/)
-
-[Plone](https://plone.org/)
-
-[Quokka Cms](http://quokkaproject.org/)
-	
-[Tornado Web](http://www.tornadoweb.org/en/stable/)
-
-[Try Py](http://trypyramid.com/)
+[Web](https://wiki.python.org/moin/WebFrameworks)
 		
 --------------------------
-#### Bancos de dados <a name="Bancos"></a>
+
+#### Dados <a name="Bancos"></a>
 	
-	Tools relacionadas : Redis, Spark, Apache, Caddy Server, Nginx, Elastic, Db Designer, Cassandra, Couch Base, Mongo Cheef, Work Bench,Fish Code Lib
+	Neo 4j, HBase, Scylla Db, Mongo Db, Redis, Spark, Apache, Caddy Server, Nginx, Elastic, Db Designer, Cassandra, Couch Base, Mongo Cheef, Work Bench,Fish Code Lib
 	
-[Mongo Db](http://mongodb.com/)
-
-[Mysql](http://mysql.com/)
-
-[Scylla Db](http://www.scylladb.com/)
-
-[HBase](http://hbase.apache.org/)
-
-[Postgre Sql](https://www.postgresql.org/)
-
-[Oracle Db](https://www.oracle.com/index.html)
+	Orms :
 	
---------------------------	
+[Peewee](http://docs.peewee-orm.com/en/latest/)
+
+[Sql Alchemy](http://www.sqlalchemy.org/)
+
+[Records](https://github.com/kennethreitz/records)
+
+[Pony Orm](https://ponyorm.com/)
+
+[Sql Object](http://www.sqlobject.org/)
+
+	Banco De Dados :
+
+[Data Base Interfaces](https://wiki.python.org/moin/DatabaseInterfaces)
+
+--------------------------
+
 #### Tools <a name="Tools"></a>
 	
 	Terminal
 
-[Cmder](http://cmder.net/)
+[Cmder](http://cmder.net/) ( Windows )
 
-[Any Term](http://anyterm.org/)
-	
-	' Ide's ' online
+	' Ides ' online
 
 [Repl It](https://repl.it/)
 
 [Ide One](http://ideone.com/)
 
-[Mode Analytics](https://modeanalytics.com/)
-
-[Jupyter](http://jupyter.org/)
+[Jupyter](http://jupyter.org/) ( Local Host )
 
 [Not Book Azure](https://notebooks.azure.com/)
 
-[Python Fiddle](http://pythonfiddle.com/)
-
 [Python Tutor](http://pythontutor.com/)
 	
-	Documentação
-
-[Over Api](http://overapi.com/python)
+	Documentação ( Ferramentas Para Escrever )
 
 [Pandoc](http://pandoc.org/)
 
 [Sphinx](http://sphinx-doc.org/)
 
-[Dr Explain](http://www.drexplain.com/)
-	
-	Ambiente ( Rancher.com )
+	Ambiente
 
 [Virtual Env](https://virtualenv.pypa.io/en/stable/)
 
@@ -522,8 +496,10 @@
 
 [Vagrant](https://www.vagrantup.com/)
 	
-	Lista de apps
-	
+	Apps
+
+[Stack Share](https://stackshare.io/trending/tools)
+
 [Zapier](https://zapier.com/zapbook/)
 
 [Www Here](http://wwwhere.io/)
@@ -536,7 +512,7 @@
 
 [Wire Frame](https://wireframe.cc/)
 	
-	Notas online
+	Notas / Editor Online
 	
 [Paste Bin](https://pastebin.com/)
 
@@ -544,7 +520,7 @@
 
 [Code Share](https://codeshare.io/)
 	
-	Desenpenho Pessoal
+	Desenpenho
 
 [Tomato Timer](https://tomato-timer.com/) ( Pomodoro )
 
@@ -572,7 +548,7 @@
 
 [Hack Rank](https://www.hackerrank.com/)
 	
-	Alternativas ( Python.org/download/alternatives )
+	Alternativas Ao Python
 	
 [Anaconda](https://www.continuum.io/downloads)
 
@@ -584,7 +560,7 @@
 
 [Code Climate](https://codeclimate.com/)
 	
-	Integração continua : Sonar Qube ...
+	Integração / Entrega
 	
 [Jenkins](http://jenkins.io/)
 
@@ -592,7 +568,7 @@
 
 [Travis Ci](https://travis-ci.org/)
 	
-	Teste de unidade ( Unitário )
+	Teste De Unidade
 
 [Py Test](https://docs.pytest.org/en/latest/)
 
@@ -618,13 +594,11 @@
 	
 [New Relic](https://newrelic.com/)
 
-[Data Dog](https://www.datadoghq.com/)
-
 [Roll Bar](https://rollbar.com/)
 
 [Op Beat](https://opbeat.com/)
 	
-	Análise sintática
+	Análise Sintática
 
 [Flake 8](http://flake8.pycqa.org/en/latest/)
 
@@ -639,6 +613,7 @@
 [Mind Meister](https://www.mindmeister.com/pt/)
 
 --------------------------
+
 #### Newsletter <a name="News"></a>
 
 [Import Python](http://importpython.com/newsletter/)
@@ -648,6 +623,7 @@
 [Python Weekly](http://www.pythonweekly.com/)
 
 --------------------------
+
 #### Datasets <a name="Datas">
 
 [Kaggle](https://www.kaggle.com/datasets)
