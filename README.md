@@ -67,6 +67,8 @@
 
 [Overflow Trends](https://insights.stackoverflow.com/trends?utm_source=so-owned&utm_medium=blog&utm_campaign=trends&utm_content=blog-link&tags=python%2Cruby%2Cc%2Cc%2B%2B%2Cjava%2Cjavascript)
 
+[Why Python is a great first language](http://blog.trinket.io/why-python/)
+
 **<a href="#Top">< ------------------------------------------------------------------------- Menu --------------------------------------------------------------------------- ></a>**
 
 --------------------------
@@ -173,11 +175,15 @@
 
 [Eclipse](http://www.eclipse.org/)
 
+[KDevelop](https://www.kdevelop.org/)
+
 [Py Dev](http://www.pydev.org/)
 
 [Komodo](https://www.activestate.com/komodo-ide)
 	
 [Anaconda Ide](http://damnwidget.github.io/anaconda/)
+
+[Ninja Ide](http://ninja-ide.org/home/)
 
 **<a href="#Top">< ------------------------------------------------------------------------- Menu --------------------------------------------------------------------------- ></a>**
 
@@ -212,6 +218,8 @@
 [Programiz](https://www.programiz.com/python-programming/examples)
 
 [Py Motw](https://pymotw.com/3/)
+
+[Learn Eroo](https://www.learneroo.com/modules/65)
 
 **<a href="#Top">< ------------------------------------------------------------------------- Menu --------------------------------------------------------------------------- ></a>**
 
@@ -343,6 +351,8 @@
 
 [Python - Francisco Calaça](https://www.youtube.com/playlist?list=PLVj7t-1tQQnGMIDg5_zpFaDmruEMgbsd1)
 
+[Fundamentos De Data Science I Com Python](https://br.udacity.com/course/fundamentos-data-science-i-python--nd110/) ( En / Br - Udacity )
+
 [Python Ignorância Zero](https://Youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
 
 [Python Para Zumbis](https://Youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
@@ -366,6 +376,28 @@
 [Python Básico](https://Youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 
 [The Complete Python 3 Course](https://www.udemy.com/learn-python-3-from-beginner-to-advanced/learn/v4/overview) ( Udemy / En )
+
+[Python For Beginners : Learn In 7 Days](http://www.guru99.com/python-tutorials.html) ( En )
+
+[Interactive Python 3 Tutorial](http://snakify.org/) ( En - Exercícios + Explicações )
+
+[Learn Python Code Cademy](https://www.codecademy.com/pt-BR/learn/python) ( En / Br - Exercícios + Explicações )
+
+[Python Training Material](https://github.com/addfor/tutorials?utm_medium=referral&utm_campaign=ZEEF&utm_source=https%3A%2F%2Fpython.zeef.com%2Falan.richmond) ( En - Github )
+
+[Introduction To Python For Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-6) ( En - Edx + Microsoft )
+
+[59 Maneiras De Programar Melhor Em Python](https://books.google.com.br/books?id=sU-iDAAAQBAJ&printsec=frontcover&dq=python&hl=pt-BR&sa=X&redir_esc=y#v=onepage&q=python&f=false)
+
+[Automatize Tarefas Maçantes Com Python](https://books.google.com.br/books?id=VXpWCgAAQBAJ&printsec=frontcover&dq=python&hl=pt-BR&sa=X&redir_esc=y#v=onepage&q=python&f=false)
+
+[Use a Cabeça ! Python](https://books.google.com.br/books?id=o6m6BAAAQBAJ&printsec=frontcover&dq=python&hl=pt-BR&sa=X&redir_esc=y#v=onepage&q=python&f=false)
+
+[Intermediate Python](http://book.pythontips.com/en/latest/) ( En )
+
+[Advanced Topics With Python](http://www.python-course.eu/advanced_topics.php) ( En )
+
+[Learn Python 3 In Y Minutes](https://learnxinyminutes.com/docs/python3/) ( En )
 
 **<a href="#Top">< ------------------------------------------------------------------------- Menu --------------------------------------------------------------------------- ></a>**
 
@@ -538,7 +570,11 @@
 [Docker](https://www.docker.com/)
 
 [Vagrant](https://www.vagrantup.com/)
-	
+
+[Auto Env](https://github.com/kennethreitz/autoenv)
+
+[Py Env](https://github.com/pyenv/pyenv)
+
 	Apps
 
 [Stack Share](https://stackshare.io/trending/tools)
@@ -602,7 +638,13 @@
 [Coda Cy](https://www.codacy.com/)
 
 [Code Climate](https://codeclimate.com/)
-	
+
+[Quantified Code](https://www.quantifiedcode.com/) ( Python + Django + Flask ... )
+
+[Land Space](https://landscape.io/)
+
+[Code Cov](https://codecov.io/)
+
 	Integração / Entrega
 	
 [Jenkins](http://jenkins.io/)
@@ -617,7 +659,7 @@
 
 [Py Unit](http://pyunit.sourceforge.net/pyunit.html)
 
-[Cucumber](https://cucumber.io/) // Outras linguagens, não de unidade
+[Cucumber](https://cucumber.io/) ( Outras Linguagens )
 
 	Debugger
 
