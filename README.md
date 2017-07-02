@@ -48,7 +48,7 @@
 
 * <a href="#Frameworks">Frameworks</a>
 
-* <a href="#Bancos">Orm & Bancos</a>
+* <a href="#Bancos">Orms & Bancos</a>
 
 * <a href="#Tools">Tools</a>
 
@@ -59,7 +59,9 @@
 
 --------------------------
 
-#### Motivação <a name="Motivação"></a>
+<a name="Motivação"></a>
+ 
+#### Motivação
 
 [Destroy All Software](https://www.destroyallsoftware.com/talks/wat)	
 
@@ -73,7 +75,9 @@
 
 --------------------------
 
-#### História <a name="História"></a>
+<a name="História"></a>
+
+#### História 
 
 [Python Language](http://www.wikiwand.com/en/Python_(programming_language)) ( En )
 
@@ -83,7 +87,9 @@
 
 --------------------------
 
-#### Visão Geral <a name="Visão"></a>
+<a name="Visão"></a>
+
+#### Visão Geral 
 
 [Stack Over Flow Insights](http://stackoverflow.com/insights/survey/2017)
 
@@ -97,7 +103,9 @@
 
 --------------------------	
 
-####  Certificação <a name="Certificação"></a>
+<a name="Certificação"></a>
+
+####  Certificação 
 
 [Python iMasters](http://certificacao.imasters.com.br/) ( Breve )
 
@@ -105,7 +113,9 @@
 
 --------------------------
 
-#### Projetos Voluntários <a name="Voluntário"></a>
+<a name="Voluntário"></a>
+
+#### Projetos Voluntários 
 
 [Open Hatch](https://openhatch.org/)
 	
@@ -113,7 +123,9 @@
 
 --------------------------	
 
-#### Empregos <a name="Empregos"></a>
+<a name="Empregos"></a>
+
+#### Empregos 
 
 	
 	Programador Python fala sobre o mercado de trabalho : Youtube.com/watch?v=jvYQXvMBx9k
@@ -149,11 +161,19 @@
 
 [Van Hack](http://www.vanhack.com/)
 
+[Top Tal](https://www.toptal.com/)
+
+[Ref Dash](https://refdash.com/)
+
+[Gainlo](http://www.gainlo.co/)
+
 **<a href="#Top">< ------------------------------------------------------------------------- Menu --------------------------------------------------------------------------- ></a>**
 
 --------------------------
 
-#### Vertentes <a name="Vertentes"></a>
+<a name="Vertentes"></a>
+
+#### Vertentes 
 
 [Python Awesome Pentest](https://github.com/dloss/python-pentest-tools)
 	
@@ -163,7 +183,9 @@
 
 --------------------------	
 
-#### Ide's <a name="Ides"></a>
+<a name="Ides"></a>
+
+#### Ide's 
 
 [Visual Studio Code](https://code.visualstudio.com/)
 
@@ -189,7 +211,9 @@
 
 --------------------------
 
-#### Blogs <a name="Blogs"></a>
+<a name="Blogs"></a>
+
+#### Blogs 
 
 [Python Tips](https://pythontips.com/)
 
@@ -213,7 +237,9 @@
 
 --------------------------
 
-#### Exemplos <a name="Exemplos"></a>
+<a name="Exemplos"></a>
+
+#### Exemplos 
 
 [Programiz](https://www.programiz.com/python-programming/examples)
 
@@ -225,7 +251,9 @@
 
 --------------------------
 
-#### Libs <a name="Libs"></a>
+<a name="Libs"></a>
+
+#### Libs 
 
 
 	Mapa : Ericstk.files.wordpress.com/2014/09/pymap.png
@@ -241,7 +269,9 @@
 
 --------------------------	
 
-#### Inglês	<a name="Inglês"></a>
+<a name="Inglês"></a>
+
+#### Inglês	
 	
 	Cursos :
 	
@@ -285,7 +315,9 @@
 
 --------------------------	
 
-#### Slides <a name="Slides"></a>
+<a name="Slides"></a>
+
+#### Slides 
 
 [Speaker Deck](https://speakerdeck.com/)
 
@@ -297,7 +329,9 @@
 
 --------------------------	
 
-#### Apresentações <a name="Apresentações"></a>
+<a name="Apresentações"></a>
+
+#### Apresentações 
 
 [Guido Van Rossum - Python Language](https://www.youtube.com/watch?v=YgtL4S7Hrwo)
 	
@@ -341,7 +375,9 @@
 
 --------------------------
 
-#### Cursos <a name="Cursos"></a>
+<a name="Cursos"></a>
+
+#### Cursos 
 	
 	
 	Vários cursos grátis de Python : Datascienceacademy.com.br
@@ -399,11 +435,17 @@
 
 [Learn Python 3 In Y Minutes](https://learnxinyminutes.com/docs/python3/) ( En )
 
+[Python Para Android, Ios, Windows, Linux & Mac](https://www.udemy.com/python-para-android-ios-windows-linux-mac/) ( Udemy )
+
+[Github Education](https://education.github.com/pack)
+
 **<a href="#Top">< ------------------------------------------------------------------------- Menu --------------------------------------------------------------------------- ></a>**
 
 --------------------------
 
-#### Comunidades <a name="Comunidades"></a>
+<a name="Comunidades"></a>
+
+#### Comunidades 
 
 [Stack Over Flow](http://pt.stackoverflow.com/questions/tagged/python)
 
@@ -429,11 +471,15 @@
 
 [Coder Wall](https://coderwall.com/t/python/popular)
 
+[Telegram Python](https://github.com/alexmoreno/telegram-br#python)
+
 **<a href="#Top">< ------------------------------------------------------------------------- Menu --------------------------------------------------------------------------- ></a>**
 
 --------------------------
 
-#### Livros & Documentações <a name="Livros"></a>
+<a name="Livros"></a>
+
+#### Livros & Documentações 
 	
 	
 	Documentações online : Zealdocs.org, Devdocs.io & Overapi.com
@@ -467,7 +513,9 @@
 
 --------------------------
 
-#### Podcasts <a name="Podcasts"></a>
+<a name="Podcasts"></a>
+
+#### Podcasts 
 
 [Hipsters](http://hipsters.tech/)
 
@@ -483,7 +531,9 @@
 
 --------------------------
 
-#### Conferências <a name="Conferências"></a>
+<a name="Conferências"></a>
+
+#### Conferências 
 
 [Python Brasil](http://pythonbrasil.org.br/)
 
@@ -505,7 +555,9 @@
 
 --------------------------
 
-#### Frameworks <a name="Frameworks"></a>
+<a name="Frameworks"></a>
+
+#### Frameworks 
 	
 [Gui](https://wiki.python.org/moin/GuiProgramming)
 
@@ -515,9 +567,11 @@
 
 --------------------------
 
-#### Dados <a name="Bancos"></a>
+<a name="Bancos"></a>
+
+#### Dados 
 	
-	Neo 4j, HBase, Scylla Db, Mongo Db, Redis, Spark, Apache, Caddy Server, Nginx, Elastic, Db Designer, Cassandra, Couch Base, Mongo Cheef, Work Bench,Fish Code Lib
+> Neo 4 j, HBase, Scylla Db, Mongo Db, Redis, Spark, Apache, Caddy Server, Nginx, Elastic, Db Designer, Cassandra, Couch Base, Mongo Cheef, Work Bench,Fish Code Lib
 	
 	Orms :
 	
@@ -539,11 +593,17 @@
 
 --------------------------
 
-#### Tools <a name="Tools"></a>
+<a name="Tools"></a>
+
+#### Tools 
 	
 	Terminal
 
 [Cmder](http://cmder.net/) ( Windows )
+
+[Terminator](https://gnometerminator.blogspot.com.br/p/introduction.html) ( Linux )
+
+[Terminus](https://github.com/Eugeny/terminus) ( Mac, Linux & Windows )
 
 	' Ides ' online
 
@@ -570,6 +630,8 @@
 [Docker](https://www.docker.com/)
 
 [Vagrant](https://www.vagrantup.com/)
+
+[Dokku](https://github.com/dokku/dokku)
 
 [Auto Env](https://github.com/kennethreitz/autoenv)
 
@@ -599,9 +661,21 @@
 
 [Code Share](https://codeshare.io/)
 	
-	Desenpenho
+	Desempenho
 
 [Tomato Timer](https://tomato-timer.com/) ( Pomodoro )
+
+[Open Source Checklist](https://afonsopacifer.github.io/open-source-checklist/)
+
+[Trello](https://trello.com/)
+
+[Jira](https://br.atlassian.com/software/jira)
+
+[Red Booth](https://redbooth.com/)
+
+[Corrello](https://getcorrello.com)
+
+[Kanbanery](https://kanbanery.com/)
 
 	Acadêmico
 
@@ -701,7 +775,9 @@
 
 --------------------------
 
-#### Newsletter <a name="News"></a>
+<a name="News"></a>
+
+#### Newsletter 
 
 [Import Python](http://importpython.com/newsletter/)
 
@@ -713,7 +789,9 @@
 
 --------------------------
 
-#### Datasets <a name="Datas">
+<a name="Datas">
+
+#### Datasets 
 
 [Kaggle](https://www.kaggle.com/datasets)
 
