@@ -439,6 +439,10 @@
 
 [Github Education](https://education.github.com/pack)
 
+[Try Django 1.10](https://www.codingforentrepreneurs.com/projects/try-django-110/) ( En )
+
+[Cc 50 - Curso De Harvard No Brasil](http://cc50.com.br/?nav=videos)
+
 **<a href="#Top">< ------------------------------------------------------------------------- Menu --------------------------------------------------------------------------- ></a>**
 
 --------------------------
@@ -492,6 +496,8 @@
 [Django Girls](https://tutorial.djangogirls.org/pt/)
 
 [Python Fácil](http://felipegalvao.com.br/static/ebooks/Ebook_Python_basico.zip)
+
+[Python Books](http://pythonbooks.org/) ( En )
 
 [Python Turing](http://turing.com.br/pydoc/2.7/tutorial/)
 
@@ -604,6 +610,8 @@
 [Terminator](https://gnometerminator.blogspot.com.br/p/introduction.html) ( Linux )
 
 [Terminus](https://github.com/Eugeny/terminus) ( Mac, Linux & Windows )
+
+> Tratamento de vídeos : [FFmpeg](https://ffmpeg.org/) + [Libav](https://libav.org/)
 
 	' Ides ' online
 
