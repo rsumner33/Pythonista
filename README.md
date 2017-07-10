@@ -52,6 +52,26 @@
 
 * <a href="#Tools">Tools</a>
 	
+    * <a href="#Terminal">Terminal</a>
+
+    * <a href="#IdesOnline">Ides Online</a>
+
+    * <a href="#WireFrames">WireFrames</a>
+
+    * <a href="#Acadêmico">Acadêmico</a>
+
+    * <a href="#Análise">Análise De Código</a>
+
+    * <a href="#Integração">Integração</a>
+
+    * <a href="#Debugger">Debugger</a>
+
+    * <a href="#Hospedagem">Hospedagem</a>
+
+    * <a href="#Monitoramento">Monitoramento</a>
+
+    * <a href="#MapaMental">Mapa Mental</a>
+	
 * <a href="#News">Newsletter</a>
 
 * <a href="#Datas">Datasets</a>
@@ -610,7 +630,7 @@
 
 #### Tools 
 	
-	<a name="Terminal"></a>
+<a name="Terminal"></a>
 	
 	Terminal
 
@@ -622,7 +642,7 @@
 
 > Tratamento de vídeos : [FFmpeg](https://ffmpeg.org/) + [Libav](https://libav.org/)
 	
-	<a name="IdesOnline"></a>
+<a name="IdesOnline"></a>
 	
 	' Ides ' online
 
@@ -636,7 +656,7 @@
 
 [Python Tutor](http://pythontutor.com/)
 	
-	<a name="DocumentaçãoEscrever"></a>
+<a name="DocumentaçãoEscrever"></a>
 	
 	Documentação ( Ferramentas Para Escrever )
 
@@ -644,7 +664,7 @@
 
 [Sphinx](http://sphinx-doc.org/)
 	
-	<a name="Ambiente"></a>
+<a name="Ambiente"></a>
 	
 	Ambiente
 
@@ -660,7 +680,7 @@
 
 [Py Env](https://github.com/pyenv/pyenv)
 	
-	<a name="Apps"></a>
+<a name="Apps"></a>
 	
 	Apps
 
@@ -670,7 +690,7 @@
 
 [Www Here](http://wwwhere.io/)
 	
-	<a name="Wire Frames"></a>
+<a name="Wire Frames"></a>
 	
 	Wire frames
 
@@ -680,7 +700,7 @@
 
 [Wire Frame](https://wireframe.cc/)
 	
-	<a name="Notas"></a>
+<a name="Notas"></a>
 	
 	Notas / Editor Online
 	
@@ -690,7 +710,7 @@
 
 [Code Share](https://codeshare.io/)
 	
-	<a name="Desempenho"></a>
+<a name="Desempenho"></a>
 	
 	Desempenho
 
@@ -708,7 +728,7 @@
 
 [Kanbanery](https://kanbanery.com/)
 	
-	<a name="Acadêmico"></a>
+<a name="Acadêmico"></a>
 	
 	Acadêmico
 
@@ -724,7 +744,7 @@
 
 [Schoolar](https://scholar.google.com.br/)
 	
-	<a name="Judge"></a>
+<a name="Judge"></a>
 	
 	Online judge
 	
@@ -736,7 +756,7 @@
 
 [Hack Rank](https://www.hackerrank.com/)
 	
-	<a name="AltPython"></a>
+<a name="AltPython"></a>
 	
 	Alternativas
 	
@@ -744,7 +764,7 @@
 
 [Epd Python](https://www.enthought.com/products/epd/)
 	
-	<a name="Análise"></a>
+<a name="Análise"></a>
 	
 	Análise de código online
 	
@@ -758,7 +778,7 @@
 
 [Code Cov](https://codecov.io/)
 	
-	<a name="Integração"></a>
+<a name="Integração"></a>
 	
 	Integração / Entrega
 	
@@ -768,7 +788,7 @@
 
 [Travis Ci](https://travis-ci.org/)
 	
-	<a name="Tests"></a>
+<a name="Tests"></a>
 	
 	Teste De Unidade
 
@@ -778,13 +798,13 @@
 
 [Cucumber](https://cucumber.io/) ( Outras Linguagens )
 	
-	<a name="Debugger"></a>
+<a name="Debugger"></a>
 	
 	Debugger
 
 [Pdb](https://docs.python.org/2/library/pdb.html)
 	
-	<a name="Hospedagem"></a>
+<a name="Hospedagem"></a>
 	
 	Hospedagem
 
@@ -802,7 +822,7 @@
 
 [Dream Host](https://www.dreamhost.com/)
 	
-	<a name="Monitoramento"></a>
+<a name="Monitoramento"></a>
 	
 	Monitoração
 	
@@ -812,7 +832,7 @@
 
 [Op Beat](https://opbeat.com/)
 	
-	<a name="Sintatic"></a>
+<a name="Sintatic"></a>
 	
 	Análise Sintática
 
@@ -822,7 +842,7 @@
 
 [Py Lint](http://logilab.org/project/pylint)
 	
-	<a name="MapaMental"></a>
+<a name="MapaMental"></a>
 	
 	Mapa mental
 
