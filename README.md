@@ -51,6 +51,26 @@
 * <a href="#Bancos">Orms & Bancos</a>
 
 * <a href="#Tools">Tools</a>
+	
+    * <a href="#Terminal">Terminal</a>
+
+    * <a href="#IdesOnline">Ides Online</a>
+
+    * <a href="#WireFrames">WireFrames</a>
+
+    * <a href="#Acadêmico">Acadêmico</a>
+
+    * <a href="#Análise">Análise De Código</a>
+
+    * <a href="#Integração">Integração</a>
+
+    * <a href="#Debugger">Debugger</a>
+
+    * <a href="#Hospedagem">Hospedagem</a>
+
+    * <a href="#Monitoramento">Monitoramento</a>
+
+    * <a href="#MapaMental">Mapa Mental</a>
 
 * <a href="#News">Newsletter</a>
 
@@ -382,6 +402,7 @@
 	
 	Vários cursos grátis de Python : Datascienceacademy.com.br
 
+[Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) ( Coursera - Universidade de São Paulo )
 
 [Python Básico Solyd](https://Youtube.com/playlist?list=PLp95aw034Wn_WtEmlepaDrw8FU8R5azcm)
 
@@ -442,6 +463,8 @@
 [Try Django 1.10](https://www.codingforentrepreneurs.com/projects/try-django-110/) ( En )
 
 [Cc 50 - Curso De Harvard No Brasil](http://cc50.com.br/?nav=videos)
+
+[Check Io](https://checkio.org/)
 
 **<a href="#Top">< ------------------------------------------------------------------------- Menu --------------------------------------------------------------------------- ></a>**
 
@@ -514,7 +537,11 @@
 [Wiki Books](https://pt.wikibooks.org/wiki/Python)
 
 [Learn Code Hard Way](https://learnpythonthehardway.org/book/)
-	
+
+[Python Dev Furia](http://devfuria.com.br/python/)
+
+[Quick reference to Python in a single script](http://www.dataschool.io/python-quick-reference/)
+
 **<a href="#Top">< ------------------------------------------------------------------------- Menu --------------------------------------------------------------------------- ></a>**
 
 --------------------------
@@ -603,6 +630,8 @@
 
 #### Tools 
 	
+	<a name="Terminal"></a>
+	
 	Terminal
 
 [Cmder](http://cmder.net/) ( Windows )
@@ -612,7 +641,9 @@
 [Terminus](https://github.com/Eugeny/terminus) ( Mac, Linux & Windows )
 
 > Tratamento de vídeos : [FFmpeg](https://ffmpeg.org/) + [Libav](https://libav.org/)
-
+	
+	<a name="IdesOnline"></a>
+	
 	' Ides ' online
 
 [Repl It](https://repl.it/)
@@ -625,12 +656,16 @@
 
 [Python Tutor](http://pythontutor.com/)
 	
+	<a name="DocumentaçãoEscrever"></a>
+	
 	Documentação ( Ferramentas Para Escrever )
 
 [Pandoc](http://pandoc.org/)
 
 [Sphinx](http://sphinx-doc.org/)
-
+	
+	<a name="Ambiente"></a>
+	
 	Ambiente
 
 [Virtual Env](https://virtualenv.pypa.io/en/stable/)
@@ -644,7 +679,9 @@
 [Auto Env](https://github.com/kennethreitz/autoenv)
 
 [Py Env](https://github.com/pyenv/pyenv)
-
+	
+	<a name="Apps"></a>
+	
 	Apps
 
 [Stack Share](https://stackshare.io/trending/tools)
@@ -652,6 +689,8 @@
 [Zapier](https://zapier.com/zapbook/)
 
 [Www Here](http://wwwhere.io/)
+	
+	<a name="Wire Frames"></a>
 	
 	Wire frames
 
@@ -661,6 +700,8 @@
 
 [Wire Frame](https://wireframe.cc/)
 	
+	<a name="Notas"></a>
+	
 	Notas / Editor Online
 	
 [Paste Bin](https://pastebin.com/)
@@ -668,6 +709,8 @@
 [Ghost Bin](https://ghostbin.com/)
 
 [Code Share](https://codeshare.io/)
+	
+	<a name="Desempenho"></a>
 	
 	Desempenho
 
@@ -684,7 +727,9 @@
 [Corrello](https://getcorrello.com)
 
 [Kanbanery](https://kanbanery.com/)
-
+	
+	<a name="Acadêmico"></a>
+	
 	Acadêmico
 
 [Sci-Hub](https://sci-hub.io/)
@@ -699,6 +744,8 @@
 
 [Schoolar](https://scholar.google.com.br/)
 	
+	<a name="Judge"></a>
+	
 	Online judge
 	
 [Uri](https://www.urionlinejudge.com.br/)
@@ -709,13 +756,17 @@
 
 [Hack Rank](https://www.hackerrank.com/)
 	
-	Alternativas Ao Python
+	<a name="AltPython"></a>
+	
+	Alternativas
 	
 [Anaconda](https://www.continuum.io/downloads)
 
 [Epd Python](https://www.enthought.com/products/epd/)
 	
-	Analise de código online
+	<a name="Análise"></a>
+	
+	Análise de código online
 	
 [Coda Cy](https://www.codacy.com/)
 
@@ -726,7 +777,9 @@
 [Land Space](https://landscape.io/)
 
 [Code Cov](https://codecov.io/)
-
+	
+	<a name="Integração"></a>
+	
 	Integração / Entrega
 	
 [Jenkins](http://jenkins.io/)
@@ -735,6 +788,8 @@
 
 [Travis Ci](https://travis-ci.org/)
 	
+	<a name="Tests"></a>
+	
 	Teste De Unidade
 
 [Py Test](https://docs.pytest.org/en/latest/)
@@ -742,20 +797,32 @@
 [Py Unit](http://pyunit.sourceforge.net/pyunit.html)
 
 [Cucumber](https://cucumber.io/) ( Outras Linguagens )
-
+	
+	<a name="Debugger"></a>
+	
 	Debugger
 
 [Pdb](https://docs.python.org/2/library/pdb.html)
 	
-	Hospedagem
+	<a name="Hospedagem"></a>
 	
+	Hospedagem
+
+[Nano Box](https://nanobox.io/)
+
 [Heroku](https://www.heroku.com/)
 
 [Digital Ocean](https://www.digitalocean.com/)
 
 [Open Shift](https://www.openshift.com/)
 
+[Azure](https://azure.microsoft.com/pt-br/)
+
 [Python Any Here](https://www.pythonanywhere.com/)
+
+[Dream Host](https://www.dreamhost.com/)
+	
+	<a name="Monitoramento"></a>
 	
 	Monitoração
 	
@@ -765,6 +832,8 @@
 
 [Op Beat](https://opbeat.com/)
 	
+	<a name="Sintatic"></a>
+	
 	Análise Sintática
 
 [Flake 8](http://flake8.pycqa.org/en/latest/)
@@ -772,6 +841,8 @@
 [Pep 8](https://pypi.python.org/pypi/pep8)
 
 [Py Lint](http://logilab.org/project/pylint)
+	
+	<a name="MapaMental"></a>
 	
 	Mapa mental
 
