@@ -52,26 +52,6 @@
 
 * <a href="#Tools">Tools</a>
 	
-    * <a href="#Terminal">Terminal</a>
-
-    * <a href="#IdesOnline">Ides Online</a>
-
-    * <a href="#WireFrames">WireFrames</a>
-
-    * <a href="#Acadêmico">Acadêmico</a>
-
-    * <a href="#Análise">Análise De Código</a>
-
-    * <a href="#Integração">Integração</a>
-
-    * <a href="#Debugger">Debugger</a>
-
-    * <a href="#Hospedagem">Hospedagem</a>
-
-    * <a href="#Monitoramento">Monitoramento</a>
-
-    * <a href="#MapaMental">Mapa Mental</a>
-
 * <a href="#News">Newsletter</a>
 
 * <a href="#Datas">Datasets</a>
