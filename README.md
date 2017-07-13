@@ -19,7 +19,9 @@
 * <a href="#Voluntário">Voluntário ( a )</a>
 
 * <a href="#Empregos">Empregos</a>
-
+	
+	* <a href="#Recebimento">Recebimento</a>
+	
 * <a href="#Vertentes">Vertentes</a>
 
 * <a href="#Ides">Ides</a>
@@ -186,6 +188,18 @@
 [Ref Dash](https://refdash.com/)
 
 [Gainlo](http://www.gainlo.co/)
+
+<a name="Recebimento"></a>
+	
+	Recebimento
+
+[Bit Pay](https://bitpay.com/)
+
+[Striper](https://stripe.com/)
+
+[Transfer Wise](https://transferwise.com/br/)
+
+[Xoom](https://www.xoom.com/)
 
 **<a href="#Top">< ------------------------------------------------------------------------- Menu --------------------------------------------------------------------------- ></a>**
 
