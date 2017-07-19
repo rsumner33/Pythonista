@@ -189,6 +189,10 @@
 
 [Gainlo](http://www.gainlo.co/)
 
+[Working Nomads](https://www.workingnomads.co/jobs)
+
+[Ship The Drive](https://www.skipthedrive.com/)
+
 <a name="Recebimento"></a>
 	
 	Recebimento
@@ -669,7 +673,9 @@
 [Not Book Azure](https://notebooks.azure.com/)
 
 [Python Tutor](http://pythontutor.com/)
-	
+
+[Tmp Nb](https://tmpnb.org/) ( Jupyter - Online )
+
 <a name="DocumentaçãoEscrever"></a>
 	
 	Documentação ( Ferramentas Para Escrever )
