@@ -285,6 +285,8 @@
 
 [Learn Eroo](https://www.learneroo.com/modules/65)
 
+[Active State Code Recipes - Python](http://code.activestate.com/recipes/langs/python/)
+
 **<a href="#Top">< ------------------------------------------------------------------------- Menu --------------------------------------------------------------------------- ></a>**
 
 --------------------------
@@ -432,7 +434,7 @@
 
 [Python Para Zumbis](https://Youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
 
-[Desenvolvimento Web Com Python & Django](https://www.youtube.com/watch?v=dQg0uwCU158)
+[Desenvolvimento Web Com Python & Django](https://osantana.me/curso-de-python-e-django/) ( Melhor Opção ! [Yt](https://www.youtube.com/watch?v=dQg0uwCU158) )
 
 [Python eXcript](https://Youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj)
 
@@ -484,6 +486,8 @@
 
 [Check Io](https://checkio.org/)
 
+[Code Mentor](https://www.codementor.io/)
+
 **<a href="#Top">< ------------------------------------------------------------------------- Menu --------------------------------------------------------------------------- ></a>**
 
 --------------------------
@@ -531,6 +535,8 @@
 	
 	Comprar livros : Casadocodigo.com.br & Novatec.com.br
 	
+
+[The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
 
 [Pense Python](https://github.com/PenseAllen/PensePython2e) - [Alternativa](https://drive.google.com/file/d/0B_XYij1eGClZaUNCdE9TRGVpbGM/view)
 
@@ -709,7 +715,9 @@
 [Zapier](https://zapier.com/zapbook/)
 
 [Www Here](http://wwwhere.io/)
-	
+
+[Remote Starter Kit](https://www.remotestarterkit.com/)
+
 <a name="Wire Frames"></a>
 	
 	Wire frames
