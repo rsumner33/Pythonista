@@ -546,11 +546,17 @@
 
 [Python Books](http://pythonbooks.org/) ( En )
 
+[Programação Com Raspberry Pi](http://editora.ifpb.edu.br/index.php/ifpb/catalog/book/85)
+
 [Python Turing](http://turing.com.br/pydoc/2.7/tutorial/)
+
+[O'Reilly Free Data Ebooks](http://www.oreilly.com/data/free/) ( En )
 
 [Python Swaroopch](https://python.swaroopch.com/)
 
 [Python Para Desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf)
+
+[Scientific Python Cheatsheet](https://ipgp.github.io/scientific_python_cheat_sheet/) ( En )
 
 [Documentation Python 3](https://docs.python.org/3/)
 
@@ -877,6 +883,10 @@
 [Coggle](https://coggle.it/)
 
 [Mind Meister](https://www.mindmeister.com/pt/)
+
+	Api
+
+[Post Man](https://www.getpostman.com/)
 
 **<a href="#Top">< ------------------------------------------------------------------------- Menu --------------------------------------------------------------------------- ></a>**
 
