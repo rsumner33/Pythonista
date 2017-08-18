@@ -651,6 +651,10 @@
 	Banco De Dados :
 
 [Data Base Interfaces](https://wiki.python.org/moin/DatabaseInterfaces)
+	
+	Popular :
+
+[Mockaroo](http://mockaroo.com/)
 
 **<a href="#Top">< ------------------------------------------------------------------------- Menu --------------------------------------------------------------------------- ></a>**
 
@@ -664,14 +668,16 @@
 	
 	Terminal
 
+[Oh Myz](http://ohmyz.sh/)
+
 [Cmder](http://cmder.net/) ( Windows )
 
 [Terminator](https://gnometerminator.blogspot.com.br/p/introduction.html) ( Linux )
 
 [Terminus](https://github.com/Eugeny/terminus) ( Mac, Linux & Windows )
 
-> Tratamento de vídeos : [FFmpeg](https://ffmpeg.org/) + [Libav](https://libav.org/)
-	
+[Fzf](https://github.com/junegunn/fzf)
+
 <a name="IdesOnline"></a>
 	
 	' Ides ' online
