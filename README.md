@@ -171,6 +171,8 @@
 
 [Python Jobs](https://www.python.org/jobs/)
 
+[Glass Door](https://www.glassdoor.com/index.htm)
+
 [Jobs Github](https://jobs.github.com/)
 
 [Freelancer](https://www.freelancer.com/)
@@ -714,10 +716,12 @@
 
 [Dokku](https://github.com/dokku/dokku)
 
+[Azk](http://www.azk.io/)
+
 [Auto Env](https://github.com/kennethreitz/autoenv)
 
 [Py Env](https://github.com/pyenv/pyenv)
-	
+
 <a name="Apps"></a>
 	
 	Apps
@@ -828,6 +832,10 @@
 
 [Travis Ci](https://travis-ci.org/)
 	
+	Delivery
+
+[Dock Bit](https://dockbit.com/)
+
 <a name="Tests"></a>
 	
 	Teste De Unidade
@@ -861,7 +869,9 @@
 [Python Any Here](https://www.pythonanywhere.com/)
 
 [Dream Host](https://www.dreamhost.com/)
-	
+
+[Flynn](https://flynn.io/)
+
 <a name="Monitoramento"></a>
 	
 	Monitoração
