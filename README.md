@@ -442,6 +442,8 @@
 
 [Python 3 Codigo Facilito](https://Youtube.com/playlist?list=PLpOqH6AE0tNiK7QN6AJo_3nVGQPc8nLdM) ( Es )
 
+[Curso De Python Na Prática](https://www.youtube.com/playlist?list=PLsMpSZTgkF5C_Kkc0XBtM3OVLBsjUkjzy)
+
 [Grupo De Estudos Python](https://Youtube.com/playlist?list=PL6f2gQ2RXLosWiXDHM7vOr1MPdfxPAm_t)
 
 [Python - Dd Tutoriais](https://Youtube.com/playlist?list=PLO_xIfla8f1wbz386WVuvQ5kZa9Pz8_80)
@@ -591,6 +593,8 @@
 [Opinion](http://python.madewithopinion.com/)
 
 [Talk Python](https://talkpython.fm/)
+
+[Lambda 3](https://www.lambda3.com.br/category/podcast/)
 
 **<a href="#Top">< ------------------------------------------------------------------------- Menu --------------------------------------------------------------------------- ></a>**
 
