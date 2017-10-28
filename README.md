@@ -784,6 +784,8 @@
 	
 	Acadêmico
 
+[Academia](https://www.academia.edu)
+
 [Sci-Hub](https://sci-hub.io/)
 
 [Share Latex](http://sharelatex.com/)
