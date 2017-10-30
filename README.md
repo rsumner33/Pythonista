@@ -430,6 +430,8 @@
 
 [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) ( Coursera - Universidade de São Paulo )
 
+[Progate](https://progate.com)
+
 [Python Básico Solyd](https://Youtube.com/playlist?list=PLp95aw034Wn_WtEmlepaDrw8FU8R5azcm)
 
 [Python - Francisco Calaça](https://www.youtube.com/playlist?list=PLVj7t-1tQQnGMIDg5_zpFaDmruEMgbsd1)
