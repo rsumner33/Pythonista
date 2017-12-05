@@ -159,6 +159,8 @@
 
 [We Work Remotely](https://weworkremotely.com/)
 
+[Monster](https://www.monster.ie)
+
 [Recruta Simples](https://www.recrutasimples.com.br/vagas)
 
 [Workana](https://www.workana.com/)
