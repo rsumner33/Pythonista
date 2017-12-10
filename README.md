@@ -545,7 +545,7 @@
 	
 	Documentações online : Zealdocs.org, Devdocs.io & Overapi.com
 	
-	Comprar livros : Casadocodigo.com.br & Novatec.com.br
+	Comprar livros : Casadocodigo.com.br, Amazon.com.br, Humblebundle.com & Novatec.com.br
 	
 
 [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
