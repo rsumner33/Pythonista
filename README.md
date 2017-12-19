@@ -944,11 +944,43 @@
 
 [Quandl](https://www.quandl.com/)
 
+[Statista](https://www.statista.com)
+
+[Data Hub](http://datahub.io/search)
+
+[Open Data Network](https://www.opendatanetwork.com)
+
 [Data Viva](http://dataviva.info/pt/)
 
 [Data Gov](https://www.data.gov/)
 
+[Ipea Data](http://www.ipeadata.gov.br/Default.aspx)
+
+[Data Sf](https://datasf.org)
+
+[Eu Open Data](http://data.europa.eu/euodp/en/data)
+
+[Data Nasa](https://data.nasa.gov/browse)
+
+[World Bank](https://data.worldbank.org)
+
+[Health Data](https://www.healthdata.gov)
+
 [Dados Gov](http://dados.gov.br/)
+
+[Google Trends](https://trends.google.com/trends/)
+
+[Aws Datasets](https://aws.amazon.com/pt/datasets/)
+
+[Knoema](https://pt.knoema.com)
+
+[Gap Minder](http://www.gapminder.org/data/)
+
+[Db Pedia](http://wiki.dbpedia.org)
+
+[Open Data Monitor](https://opendatamonitor.eu/frontend/web/index.php?r=dashboard%2Findex)
+
+[Google Finanças](https://www.google.com.br/search?stick=H4sIAAAAAAAAAOPQeMSozC3w8sc9YSmpSWtOXmMU4RJyy8xLzEtO9UnMS8nMSw9ITE_lAQCCiJIYKAAAAA&q=finance&tbm=fin&gws_rd=cr&dcr=0&ei=1oA5WoqFDcycwgTBmYj4Aw#gws_rd=cr&scso=uid_1oA5WvjXHNG5wgSQ-oxo_0:0)
 
 [Git Datas](https://github.com/fivethirtyeight/data)
 
