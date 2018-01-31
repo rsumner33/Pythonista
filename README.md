@@ -427,8 +427,7 @@
 
 #### Cursos 
 	
-	
-	Vários cursos grátis de Python : Datascienceacademy.com.br
+[Python Fundamentos](https://www.datascienceacademy.com.br)
 
 [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) ( Coursera - Universidade de São Paulo )
 
