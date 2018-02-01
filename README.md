@@ -681,6 +681,8 @@
 	
 	Terminal
 
+[Hyper](https://github.com/zeit/hyper)
+
 [Oh Myz](http://ohmyz.sh/)
 
 [Cmder](http://cmder.net/) ( Windows )
@@ -688,6 +690,8 @@
 [Terminator](https://gnometerminator.blogspot.com.br/p/introduction.html) ( Linux )
 
 [Terminus](https://github.com/Eugeny/terminus) ( Mac, Linux & Windows )
+
+[Fish](https://fishshell.com)
 
 [Fzf](https://github.com/junegunn/fzf)
 
