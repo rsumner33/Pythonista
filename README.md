@@ -1,8 +1,7 @@
 
 #### [Python](https://github.com/python)
 
-
-![alt text](https://www.codeschool.com/blog/2016/01/27/why-python/0127-blog-beginnersPython-v2.png "Awesome Python")
+<img src="https://i.imgur.com/8ifhNLa.png" alt="Data Visualization">
 
 <a name="Top"></a>
 
@@ -12,18 +11,14 @@
 
 * <a href="#História">História</a>
 
-* <a href="#Visão">Visão Geral</a>
+* <a href="#Mercado">Mercado</a>
 
 * <a href="#Certificação">Certificação</a>
-
-* <a href="#Voluntário">Voluntário ( a )</a>
 
 * <a href="#Empregos">Empregos</a>
 	
 	* <a href="#Recebimento">Recebimento</a>
 	
-* <a href="#Vertentes">Vertentes</a>
-
 * <a href="#Ides">Ides</a>
 
 * <a href="#Blogs">Blogs</a>
@@ -58,7 +53,7 @@
 
     * <a href="#IdesOnline">Ides Online</a>
 
-    * <a href="#WireFrames">WireFrames</a>
+    * <a href="#WireFrames">Wire Frames</a>
 
     * <a href="#Acadêmico">Acadêmico</a>
 
@@ -89,9 +84,9 @@
 
 [Why Learn Python](http://www.bestprogramminglanguagefor.me/why-learn-python)
 
-[Overflow Trends](https://insights.stackoverflow.com/trends?utm_source=so-owned&utm_medium=blog&utm_campaign=trends&utm_content=blog-link&tags=python%2Cruby%2Cc%2Cc%2B%2B%2Cjava%2Cjavascript)
+[Stack Over Flow Trends](https://insights.stackoverflow.com/trends?utm_source=so-owned&utm_medium=blog&utm_campaign=trends&utm_content=blog-link&tags=python%2Cruby%2Cc%2Cc%2B%2B%2Cjava%2Cjavascript)
 
-[Why Python is a great first language](http://blog.trinket.io/why-python/)
+[Why Python Is Great](http://blog.trinket.io/why-python/)
 
 **<a href="#Top">< ------------------------------------------------------------------------- Menu --------------------------------------------------------------------------- ></a>**
 
@@ -109,17 +104,15 @@
 
 --------------------------
 
-<a name="Visão"></a>
+<a name="Mercado"></a>
 
-#### Visão Geral 
+#### Mercado
 
 [Stack Over Flow Insights](http://stackoverflow.com/insights/survey/2017)
 
 [Hack News Rank](https://news.ycombinator.com/item?id=3746692)
 	
 [Octoverse](https://octoverse.github.com/)
-
-[Map To Learn Programming](https://medium.freecodecamp.com/this-picture-will-change-the-way-you-learn-to-code-557ac1e109bd)
 
 **<a href="#Top">< ------------------------------------------------------------------------- Menu --------------------------------------------------------------------------- ></a>**
 
@@ -129,17 +122,7 @@
 
 ####  Certificação 
 
-[Python iMasters](http://certificacao.imasters.com.br/) ( Breve )
-
-**<a href="#Top">< ------------------------------------------------------------------------- Menu --------------------------------------------------------------------------- ></a>**
-
---------------------------
-
-<a name="Voluntário"></a>
-
-#### Projetos Voluntários 
-
-[Open Hatch](https://openhatch.org/)
+[Python iMasters](http://certificacao.imasters.com.br/)
 	
 **<a href="#Top">< ------------------------------------------------------------------------- Menu --------------------------------------------------------------------------- ></a>**
 
@@ -154,8 +137,6 @@
 
 
 [Remote Ok](http://remoteok.io/)
-	
-[Info Jobs](http://www.infojobs.com.br/)
 
 [We Work Remotely](https://weworkremotely.com/)
 
@@ -176,8 +157,6 @@
 [Python Jobs](https://www.python.org/jobs/)
 
 [Glass Door](https://www.glassdoor.com/index.htm)
-
-[Jobs Github](https://jobs.github.com/)
 
 [Freelancer](https://www.freelancer.com/)
 
@@ -210,18 +189,6 @@
 [Transfer Wise](https://transferwise.com/br/)
 
 [Xoom](https://www.xoom.com/)
-
-**<a href="#Top">< ------------------------------------------------------------------------- Menu --------------------------------------------------------------------------- ></a>**
-
---------------------------
-
-<a name="Vertentes"></a>
-
-#### Vertentes 
-
-[Python Awesome Pentest](https://github.com/dloss/python-pentest-tools)
-	
-[Python Awesome Scientific](https://github.com/AeroPython/awesome-scientific-computing)
 	
 **<a href="#Top">< ------------------------------------------------------------------------- Menu --------------------------------------------------------------------------- ></a>**
 
@@ -289,8 +256,6 @@
 
 [Py Motw](https://pymotw.com/3/)
 
-[Learn Eroo](https://www.learneroo.com/modules/65)
-
 [Active State Code Recipes - Python](http://code.activestate.com/recipes/langs/python/)
 
 **<a href="#Top">< ------------------------------------------------------------------------- Menu --------------------------------------------------------------------------- ></a>**
@@ -302,7 +267,7 @@
 #### Libs 
 
 
-	Mapa : Ericstk.files.wordpress.com/2014/09/pymap.png
+	Ericstk.files.wordpress.com/2014/09/pymap.png
 
 
 [Py Pi Rank](http://pypi-ranking.info/alltime)
@@ -327,8 +292,6 @@
 
 [Mem Rise](http://www.memrise.com/home/)
 
-[Lingua Leo](https://lingualeo.com/pt)
-
 [Busuu](http://busuu.com/)
 
 	Gramática :
@@ -350,10 +313,6 @@
 	Prática :
 
 [Speaky](https://www.speaky.com/) ( Web )
-
-[Chat To Learn English](https://play.google.com/store/apps/details?id=vn.magik.englishpartner&hl=pt_BR) ( Android )
-
-[Aprenda Inglês Com Aco](https://play.google.com/store/apps/details?id=com.acobot.en) ( Android )
 
 [You Now](https://www.younow.com/) ( Web )
 
@@ -405,19 +364,11 @@
 
 [Estratégias de Branches - Code Rockr](https://www.youtube.com/watch?v=0JDFcT3uCSs)
 	
-[King Host 2017 - Seo para dessenvolvedores](https://www.youtube.com/watch?v=qdgQ8BFws0A&index=9&list=PLnNeM4deC9Tm6nOp5v592Mn_MZaizyMyw)
-
 [Apis de Watson - Processamento de linguagem natural](https://www.youtube.com/watch?v=sdUNj8rRYTQ)
 
 [Dan Maas – Massively multiplayer online game servers in Twisted Python](https://www.youtube.com/watch?v=KW3mzaM3UcU)
 
-[Mock Away - Uma análise da escrita de testes e mocks para frameworks conhecidos ? - Andre Macdowell](https://www.youtube.com/watch?v=Htaz5Hpv04o)
-
-[Big Data para desenvolvedores - Fabiane Nardon](https://www.youtube.com/watch?v=X4Cbb4XNre4)
-
 [Machine Learning : Como fazer uma máquina aprender usando Python](https://www.youtube.com/watch?v=RlAQN0KcxRQ)
-
-[Programação funcional no desenvolvimento de aplicações](https://www.youtube.com/watch?v=woYESPuwmNo)
 
 **<a href="#Top">< ------------------------------------------------------------------------- Menu --------------------------------------------------------------------------- ></a>**
 
@@ -515,15 +466,9 @@
 
 [Guj](http://respostas.guj.com.br/tag/python)
 
-[Gitter](http://gitter.im/django/django)
-
 [Quora](https://www.quora.com/topic/Python-programming-language-1)
 
-[Python - Google Groups](http://groups.google.com/forum/#!forum/python-brasil)
-
 [Python Any Where](https://www.pythonanywhere.com/forums/)
-
-[Bytes](http://bytes.com/topic/pythonv)
 
 [Python Brasil - Slack](http://pythonbrasil.slack.com/)
 
@@ -645,9 +590,7 @@
 
 <a name="Bancos"></a>
 
-#### Dados 
-	
-> Neo 4 j, HBase, Scylla Db, Mongo Db, Redis, Spark, Apache, Caddy Server, Nginx, Elastic, Db Designer, Cassandra, Couch Base, Mongo Cheef, Work Bench,Fish Code Lib
+#### Banco De Dados 
 	
 	Orms :
 	
@@ -665,7 +608,7 @@
 
 [Data Base Interfaces](https://wiki.python.org/moin/DatabaseInterfaces)
 	
-	Popular :
+	Mock :
 
 [Mockaroo](http://mockaroo.com/)
 
@@ -709,7 +652,7 @@
 
 [Python Tutor](http://pythontutor.com/)
 
-[Tmp Nb](https://tmpnb.org/) ( Jupyter - Online )
+[Tmp Nb](https://tmpnb.org/) ( Jupyter Online )
 
 <a name="DocumentaçãoEscrever"></a>
 	
